@@ -1,0 +1,1328 @@
+nro_curso;cod_materia;profesor;nombre;virtual;h_desde;h_hasta;dia;descripcion;id_cuatrimestre;id_prof;hora_desde;hora_hasta;Es_Individual
+9145;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 16:00:00.000;Lunes;Clase Piano;57;204;14:00;16:00;1
+9146;CAN;Nora Olga Malatesta;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 10:30:00.000;Lunes;Clase Canto;57;21;10:00;10:30;1
+8918;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Lunes;Guitarra-B;57;122;12:00;13:00;0
+8919;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Lunes;Guitarra-B;57;160;13:00;14:00;0
+8920;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Lunes;Guitarra-B;57;160;15:00;16:00;0
+8921;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Lunes;Guitarra-B;57;160;16:00;17:00;0
+8922;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 18:00:00.000;1900-01-01 19:00:00.000;Lunes;Guitarra-B;57;160;18:00;19:00;0
+8923;GRA;Pablo Lopez Ruiz;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Grabacion;57;8;11:00;14:00;0
+8926;EBLU;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Ensamble de Blues (D);57;122;13:00;14:30;0
+8927;EROC;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Ensamble Rock (C);57;122;17:30;19:00;0
+8928;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Lunes;Guitarra-A;57;122;16:30;18:30;0
+8929;TIM1;Cecilia Colombo;1er. Cuatrimestre 2023;0;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Taller de Interpretación y Movimiento 1;57;24;19:30;21:00;0
+8930;TIM2;Cecilia Colombo;1er. Cuatrimestre 2023;0;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;57;24;18:00;19:30;0
+8931;PNO;Gabriel Toker;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Lunes;Clase Piano;57;17;10:00;11:00;1
+8932;IPM;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Intro Producción Musical;57;127;17:00;18:30;0
+8933;PR2;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Lunes;Producción 2 Tesis;57;127;15:30;17:00;0
+8934;TAM;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Tecnología Aplicada a la Música;57;127;18:30;20:00;0
+8937;PNO;Gabriel Toker;1er. Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Clase Piano;57;17;18:00;20:00;1
+8940;APC4;Juan Pollo Raffo;1er. Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Lunes;Armonía Popular Contemporánea 4;57;12;13:30;15:00;0
+8949;TIM2;Cecilia Colombo;1er. Cuatrimestre 2023;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;57;24;15:00;16:30;0
+8950;GRA;Fernando Richard;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 19:00:00.000;Lunes;Grabacion;57;159;17:00;19:00;0
+8951;MEZ2;Pablo Lopez Ruiz;1er. Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Mezcla 2;57;8;16:00;17:30;0
+8952;MAS;Pablo Lopez Ruiz;1er. Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Mastering;57;8;17:30;19:00;0
+8953;PNO;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Clase Piano;57;171;17:00;18:30;1
+8961;APC1;Daniel Johansen;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Armonía Popular Contemporánea 1;57;6;11:30;13:00;0
+8962;APC2;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Armonía Popular Contemporánea 2;57;30;13:00;14:30;0
+8963;GUIA;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Martes;Guitarra-A;57;30;14:30;15:30;0
+8964;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;57;104;13:00;14:00;0
+8965;INA2;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 2;57;104;11:30;13:00;0
+8966;NTM2;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Notación y Teoría Musical 2;57;204;13:00;14:30;0
+8967;PNOC;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Piano Complementario;57;17;13:00;14:30;0
+8968;PNO;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;57;17;15:00;17:00;1
+8969;MFA;Adan Silveyra;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Martes;Música Folclórica Argentina;57;190;15:00;16:30;0
+8974;EJAD;Juan Cruz De Urquiza;1er. Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Martes;Ensamble Jazz (D);57;3;14:00;15:30;0
+8975;RIM;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Recursos de Improvisación;57;30;15:30;17:00;0
+8976;BAT;Santiago Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 20:00:00.000;Martes;Clase Batería;57;203;13:00;20:00;1
+8977;CAN;Rocio Carletti;1er. Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 19:30:00.000;Martes;Clase Canto;57;189;10:30;19:30;1
+8978;EAP1;Camilo Reiners;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Audioperceptiva 1;57;124;13:00;14:30;0
+8979;EAP2;Camilo Reiners;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Audioperceptiva 2;57;124;11:30;13:00;0
+8980;INA1;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 1;57;204;11:30;13:00;0
+8981;EVOC;Camilo Reiners;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Vocal;57;124;15:30;17:00;0
+8982;INA1;Camilo Reiners;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Introducción a audioperceptiva 1;57;124;17:00;18:30;0
+9006;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Piano;57;204;11:00;14:30;1
+9007;GUIA;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-A;57;160;16:30;17:30;0
+9008;NTM1;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 1;57;160;18:30;20:00;0
+9009;NTM2;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Notación y Teoría Musical 2;57;160;20:00;21:30;0
+9010;TAM;Fernando Richard;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Tecnología Aplicada a la Música;57;159;17:00;18:30;0
+9011;APM;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;57;122;18:30;20:00;0
+9012;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Miércoles;Guitarra-B;57;160;14:30;15:30;0
+9013;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Guitarra-B;57;160;15:30;16:30;0
+9014;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;57;160;17:30;18:30;0
+9015;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Miércoles;Guitarra-A;57;122;20:00;21:00;0
+9034;INA2;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Introducción a audioperceptiva 2;57;104;18:30;20:00;0
+9035;INA1;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Introducción a audioperceptiva 1;57;122;10:00;11:30;0
+9036;INA2;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 2;57;122;11:30;13:00;0
+9041;APM;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;57;171;18:30;20:00;0
+9042;APC2;Daniel Johansen;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 2;57;6;18:30;20:00;0
+9043;ARR1;Daniel Johansen;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Arreglos 1;57;6;11:30;13:00;0
+9044;CAN;Eleonora Eubel;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Canto;57;101;11:30;14:30;1
+9045;CAN;Eleonora Eubel;1er. Cuatrimestre 2023;1;1900-01-01 15:30:00.000;1900-01-01 19:30:00.000;Miércoles;Clase Canto;57;101;15:30;19:30;1
+9046;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;57;122;13:00;14:00;0
+9047;IVI;Matías Dante Moriones;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Instrumentos Virtuales;57;191;11:30;13:00;0
+9048;MIM;Matías Dante Moriones;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música en Imagen;57;191;10:00;11:30;0
+9049;PRP;Ilutovich Fernandez;1er. Cuatrimestre 2023;1;1900-01-01 19:00:00.000;1900-01-01 21:00:00.000;Miércoles;Practicas Profesionales;57;187;19:00;21:00;0
+9050;PNO;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Clase Piano;57;171;20:00;21:30;1
+9051;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Miércoles;Piano Complementario;57;171;15:30;17:00;0
+9079;NTM1;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Notación y Teoría Musical 1;57;204;10:00;11:30;0
+9093;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Piano;57;204;11:30;13:00;1
+9094;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Piano Complementario;57;171;13:00;14:30;0
+9095;PNO;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;57;17;15:00;17:00;1
+9096;PNOC;Ricardo Nole;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;57;19;17:00;18:30;0
+9097;GUIB;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Jueves;Guitarra-B;57;160;11:00;12:00;0
+9098;BAJ;Pablo Tesare;1er. Cuatrimestre 2023;1;1900-01-01 10:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Bajo;57;169;10:30;13:00;1
+9099;CAN;Lea Franov;1er. Cuatrimestre 2023;1;1900-01-01 10:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Canto;57;202;10:30;13:00;1
+9100;PME;Santiago Domingo Devia;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Producción de Música Electrónica;57;205;10:00;11:30;0
+9113;CAN;Lea Franov;1er. Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 18:30:00.000;Viernes;Clase Canto;57;202;14:00;18:30;1
+9120;APC1;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Armonía Popular Contemporánea 1;57;124;10:00;11:30;0
+9121;APT1;Fernando Richard;1er. Cuatrimestre 2023;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Audioperceptiva Técnica 1;57;159;13:30;15:00;0
+9122;INA1;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;57;124;13:00;14:30;0
+9123;PNOC;Gabriel Toker;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Piano Complementario;57;17;13:00;14:30;0
+9126;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Viernes;Guitarra-A;57;122;11:30;12:30;0
+9127;TAVC;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Taller de Arreglos Vocales (C);57;124;11:30;13:00;0
+9128;PXX;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Pensamiento Musical del Siglo XX;57;23;13:30;15:00;0
+9129;TCV2;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Técnica en Conducción de Voces 2;57;23;15:00;16:30;0
+9130;CTO2;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Contrapunto 2;57;23;16:30;18:00;0
+9131;ORQ1;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Orquestación 1;57;23;18:00;19:30;0
+9132;EAP1;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Audioperceptiva 1;57;122;13:00;14:30;0
+9133;TPBC;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Taller de Performance Blues (C);57;122;14:30;16:00;0
+9134;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Viernes;Guitarra-B;57;122;16:00;17:00;0
+9135;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:00:00.000;Viernes;Guitarra-A;57;122;17:00;18:00;0
+9136;EAP4;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Audioperceptiva 4;57;124;16:30;18:00;0
+9137;EAP3;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Audioperceptiva 3;57;124;18:00;19:30;0
+9138;BAT;Pablo Diaz;1er. Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Viernes;Clase Batería;57;132;17:30;18:30;1
+9139;TPR1;Pablo Diaz;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Viernes;Teoría y Practica del Ritmo 1;57;132;18:30;20:00;0
+9140;BAT;Pablo Diaz;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Viernes;Clase Batería;57;132;20:00;21:00;1
+9141;PNO;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 17:00:00.000;Viernes;Clase Piano;57;171;11:30;17:00;1
+9142;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Piano Complementario;57;171;17:00;18:30;0
+9143;BAT;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;57;132;11:00;13:00;1
+9152;NTM1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 1;57;104;10:00;11:30;0
+9156;PTS;Leandro Zilberberg;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Pro Tools;57;207;18:30;20:00;0
+9157;BAJ;Pablo Tesare;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 17:30:00.000;Lunes;Clase Bajo;57;169;17:00;17:30;1
+8924;EJAC;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Ensamble Jazz (C);57;160;11:30;13:00;0
+8925;GUIA;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Guitarra-A;57;160;10:30;11:30;0
+8935;AML;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Arreglos Música Latinoamericana;57;171;18:30;20:00;0
+8936;APT1;Fernando Richard;1er. Cuatrimestre 2023;1;1900-01-01 19:00:00.000;1900-01-01 20:30:00.000;Lunes;Audioperceptiva Técnica 1;57;159;19:00;20:30;0
+8938;APC2;Juan Pollo Raffo;1er. Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 12:00:00.000;Lunes;Armonía Popular Contemporánea 2;57;12;10:30;12:00;0
+8939;APC3;Juan Pollo Raffo;1er. Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Lunes;Armonía Popular Contemporánea 3;57;12;12:00;13:30;0
+8941;CAN;Lea Franov;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 18:00:00.000;Lunes;Clase Canto;57;202;11:30;18:00;1
+8942;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Lunes;Guitarra-B;57;122;11:00;12:00;0
+8943;ACO;Nestor Javier Acevedo;1er. Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Clase Acordeon;57;206;10:30;11:30;1
+8944;TEJ;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Taller de Estilos Jazz;57;204;16:00;17:30;0
+8945;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 16:00:00.000;Lunes;Clase Piano;57;204;14:00;16:00;1
+8946;PNOC;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Piano Complementario;57;204;17:30;19:00;0
+8947;MEZ2;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Mezcla 2;57;127;10:00;11:30;0
+8948;MEZ1;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Mezcla 1;57;127;11:30;13:00;0
+8954;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Lunes;Piano Complementario;57;171;20:00;21:30;0
+8955;MEZ3;Pablo Lopez Ruiz;1er. Cuatrimestre 2023;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Mezcla 3;57;8;19:30;21:00;0
+8956;IES;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Instrumentos en el Estudio;57;127;18:30;20:00;0
+8957;APM;Camilo Reiners;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;57;124;10:00;11:30;0
+8958;TPT;Andres Ollari;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 12:00:00.000;Martes;Clase Trompeta;57;194;10:00;12:00;1
+8959;NTM1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Notación y Teoría Musical 1;57;104;10:00;11:30;0
+8960;PNOC;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Piano Complementario;57;204;10:00;11:30;0
+8970;EJAB;Juan Cruz De Urquiza;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Jazz (B);57;3;15:30;17:00;0
+8971;APC1;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;57;30;18:30;20:00;0
+8972;EAP1;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Audioperceptiva 1;57;17;17:00;18:30;0
+8973;PNOC;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Piano Complementario;57;17;18:30;20:00;0
+8983;PNO;Ricardo Nole;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 16:30:00.000;Martes;Clase Piano;57;19;13:00;16:30;1
+8984;PNO;Ricardo Nole;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;57;19;18:30;20:00;1
+8985;CTO1;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Contrapunto 1;57;23;18:30;20:00;0
+8986;PNOC;Ricardo Nole;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;57;19;17:00;18:30;0
+8987;PNOC;Ricardo Nole;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Piano Complementario;57;19;20:00;21:30;0
+8988;PRO;Matías Dante Moriones;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Producción 1;57;191;11:30;13:00;0
+8989;TCV1;Teodoro Cromberg;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Técnica en Conducción de Voces 1;57;23;20:00;21:30;0
+8990;TAM;Matías Dante Moriones;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Tecnología Aplicada a la Música;57;191;10:00;11:30;0
+8991;PNO;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Clase Piano;57;17;11:30;13:00;1
+8992;CAN;Lea Franov;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;57;202;11:30;15:00;1
+8993;CAN;Eleonora Eubel;1er. Cuatrimestre 2023;0;1900-01-01 08:00:00.000;1900-01-01 08:30:00.000;Martes;Clase Canto;57;101;08:00;08:30;1
+8994;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;57;204;15:00;17:00;1
+8995;GUIB;Adan Silveyra;1er. Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Martes;Guitarra-B;57;190;16:30;17:30;0
+8996;GUIA;Adan Silveyra;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Martes;Guitarra-A;57;190;17:30;18:30;0
+8997;BAJ;Alejandro Herrera;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;57;120;18:30;20:00;1
+8998;EJAC;Alejandro Herrera;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Ensamble Jazz (C);57;120;17:00;18:30;0
+8999;EFLC;Adan Silveyra;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Ensamble Folclore (C);57;190;18:30;20:00;0
+9000;BAJ;Alejandro Herrera;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Bajo;57;120;15:00;17:00;1
+9001;GUIB;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Martes;Guitarra-B;57;160;10:30;11:30;0
+9002;NTM1;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Notación y Teoría Musical 1;57;160;11:30;13:00;0
+9003;CAN;Nora Olga Malatesta;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Canto;57;21;10:00;15:30;1
+9004;IVI;Leandro Zilberberg;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Instrumentos Virtuales;57;207;17:00;18:30;0
+9005;IES;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Instrumentos en el Estudio;57;127;18:30;20:00;0
+9016;BAJ;Pablo Tesare;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;57;169;14:30;17:00;1
+9017;SAXF;Luis Nacht;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Clase Saxo / Flauta;57;136;10:00;11:30;1
+9018;SAXF;Luis Nacht;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Saxo / Flauta;57;136;13:00;14:30;1
+9019;EJAD;Luis Nacht;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Ensamble Jazz (D);57;136;11:30;13:00;0
+9020;PTS;Fernando Richard;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Miércoles;Pro Tools;57;159;15:00;16:30;0
+9021;BAJ;Jerónimo Carmona;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Bajo;57;121;11:00;13:00;1
+9022;BAJ;Jerónimo Carmona;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 17:30:00.000;Miércoles;Clase Bajo;57;121;14:30;17:30;1
+9023;EJAC;Jerónimo Carmona;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble Jazz (C);57;121;13:00;14:30;0
+9024;BAT;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Batería;57;132;15:00;17:00;1
+9025;EIMP;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Ensamble Improvisacion Libre (C);57;204;14:30;16:00;0
+9026;ESFU;Pablo Tesare;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Ensamble Soul Funk (C);57;169;17:00;18:30;0
+9027;GRA;Fernando Richard;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 21:30:00.000;Miércoles;Grabacion;57;159;18:30;21:30;0
+9028;INA1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 1;57;104;20:00;21:30;0
+9029;LBC;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Laboratorio de Batería Complementaria;57;132;18:30;20:00;0
+9030;TIM1;Cecilia Colombo;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Taller de Interpretación y Movimiento 1;57;24;10:00;11:30;0
+9031;TIM2;Cecilia Colombo;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Taller de Interpretación y Movimiento 2;57;24;11:30;13:00;0
+9032;TPR1;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Teoría y Practica del Ritmo 1;57;132;11:30;13:00;0
+9033;TPR1;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Teoría y Practica del Ritmo 1;57;132;17:00;18:30;0
+9060;ARR2;Daniel Johansen;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Arreglos 2;57;6;10:00;11:30;0
+9091;MEZ1;Paulina Chiarantano;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Mezcla 1;57;195;18:30;20:00;0
+9092;PNO;Ricardo Nole;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 16:30:00.000;Jueves;Clase Piano;57;19;10:00;16:30;1
+9117;PNO;Gabriel Toker;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;57;17;10:00;11:30;1
+9118;NTM1;Patricio Andres Nicholson;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Notación y Teoría Musical 1;57;122;10:00;11:30;0
+9119;PTS;Fernando Richard;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;57;159;10:00;11:30;0
+9124;APM;Gabriel Toker;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Apreciación Musical;57;17;11:30;13:00;0
+9125;TAM;Fernando Richard;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Tecnología Aplicada a la Música;57;159;11:30;13:00;0
+9148;TIM3;Cecilia Colombo;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 12:30:00.000;Lunes;Taller de Interpretación y Movimiento 3;57;24;11:00;12:30;0
+9154;APC1;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Armonía Popular Contemporánea 1;57;171;18:30;20:00;0
+9155;PTS;Paulina Chiarantano;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Pro Tools;57;195;11:30;13:00;0
+9162;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Viernes;Piano Complementario;57;171;09:00;10:30;0
+9163;NTM2;Daniel Johansen;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Jueves;Notación y Teoría Musical 2;57;6;09:00;10:30;0
+9165;APC2;Juan Pollo Raffo;2do Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Lunes;Armonía Popular Contemporánea 2;58;12;13:30;15:00;0
+9166;APC3;Juan Pollo Raffo;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Lunes;Armonía Popular Contemporánea 3;58;12;12:00;13:30;0
+9167;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Lunes;Guitarra-B;58;122;12:00;13:00;0
+9168;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Lunes;Guitarra-B;58;160;13:00;14:00;0
+9169;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Lunes;Guitarra-B;58;160;15:00;16:00;0
+9170;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Lunes;Guitarra-B;58;160;16:00;17:00;0
+9171;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 18:00:00.000;1900-01-01 19:00:00.000;Lunes;Guitarra-B;58;160;18:00;19:00;0
+9187;CAN;Lea Franov;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 16:30:00.000;Lunes;Clase Canto;58;202;12:00;16:30;1
+9190;APT1;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Audioperceptiva Técnica 1;58;159;17:00;18:30;0
+9197;APM;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;58;124;10:00;11:30;0
+9198;APC1;Daniel Johansen;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Armonía Popular Contemporánea 1;58;6;11:30;13:00;0
+9199;TPT;Andres Ollari;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Clase Trompeta;58;194;10:00;11:30;1
+9200;NTM1;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Notación y Teoría Musical 1;58;104;10:00;11:30;0
+9201;PNOC;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Piano Complementario;58;204;10:00;11:30;0
+9221;EAP1;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Audioperceptiva 1;58;124;13:00;14:30;0
+9222;BAJ;Alejandro Herrera;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Bajo;58;120;15:00;17:00;1
+9223;BAJ;Alejandro Herrera;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;58;120;18:30;20:00;1
+9224;EVOC;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Vocal;58;124;15:30;17:00;0
+9225;INA1;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 1;58;204;11:30;13:00;0
+9226;INA2;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Introducción a audioperceptiva 2;58;124;17:00;18:30;0
+9241;CAN;Silvia Aramayo;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 16:00:00.000;Martes;Clase Canto;58;208;10:00;16:00;1
+9242;CAN;Rocio Carletti;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 20:00:00.000;Martes;Clase Canto;58;189;14:00;20:00;1
+9243;CAN;Eleonora Eubel;2do Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;58;101;13:00;15:00;1
+9244;PNO;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Piano;58;204;11:00;14:00;1
+9245;GUIA;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Miércoles;Guitarra-A;58;160;11:00;12:00;0
+9246;GUIA;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-A;58;160;16:30;17:30;0
+9247;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Miércoles;Guitarra-B;58;160;10:00;11:00;0
+9037;EAP2;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Audioperceptiva 2;57;171;13:00;14:30;0
+9038;CAN;Rocio Carletti;1er. Cuatrimestre 2023;1;1900-01-01 12:00:00.000;1900-01-01 15:00:00.000;Miércoles;Clase Canto;57;189;12:00;15:00;1
+9039;NTM2;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 2;57;171;10:00;11:30;0
+9040;PNOC;Ignacio Abad;1er. Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Piano Complementario;57;171;11:30;13:00;0
+9052;INA2;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Introducción a audioperceptiva 2;57;160;13:00;14:30;0
+9053;CAN;Nora Olga Malatesta;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Canto;57;21;10:00;17:00;1
+9054;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Miércoles;Guitarra-B;57;160;11:00;12:00;0
+9055;GUIA;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Miércoles;Guitarra-A;57;160;12:00;13:00;0
+9056;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;57;104;17:30;18:30;0
+9057;LBC;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Laboratorio de Batería Complementaria;57;132;10:00;11:30;0
+9058;ERI;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Entrenamiento Rítmico ;57;132;13:00;14:30;0
+9059;GUIB;Adan Silveyra;1er. Cuatrimestre 2023;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Miércoles;Guitarra-B;57;190;10:30;11:30;0
+9061;PNOC;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Piano Complementario;57;17;10:00;11:30;0
+9062;EAP3;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Audioperceptiva 3;57;17;11:30;13:00;0
+9063;ARR1;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Arreglos 1;57;17;18:30;20:00;0
+9064;EJAD;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Ensamble Jazz (D);57;17;13:00;14:30;0
+9065;EPOP;Carletti Nicholson -;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Ensamble POP;57;193;11:30;13:00;0
+9066;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;57;122;16:00;17:00;0
+9067;IPM;Santiago Beer;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Intro Producción Musical;57;127;13:00;14:30;0
+9068;MEZ1;Paulina Chiarantano;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Jueves;Mezcla 1;57;195;15:00;16:30;0
+9069;PTS;Paulina Chiarantano;1er. Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Jueves;Pro Tools;57;195;13:30;15:00;0
+9070;TAM;Paulina Chiarantano;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Tecnología Aplicada a la Música;57;195;17:00;18:30;0
+9071;APC1;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Armonía Popular Contemporánea 1;57;17;17:00;18:30;0
+9072;NTM1;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;57;122;18:30;20:00;0
+9073;CAN;Rocio Carletti;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Clase Canto;57;189;10:00;11:30;1
+9074;CAN;Eleonora Eubel;1er. Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Canto;57;101;11:00;14:30;1
+9075;CAN;Rocio Carletti;1er. Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:30:00.000;Jueves;Clase Canto;57;189;13:30;15:30;1
+9076;CAN;Eleonora Eubel;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Canto;57;101;15:30;20:00;1
+9077;ECBC;Ricardo Nole;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Ensamble Candombe Brazilian (C);57;19;18:30;20:00;0
+9078;EAP2;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 2;57;122;17:00;18:30;0
+9080;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Jueves;Guitarra-B;57;122;10:30;11:30;0
+9081;MEZ3;Santiago Beer;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Mezcla 3;57;127;10:00;11:30;0
+9082;BAT;Fernando Martinez;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 14:00:00.000;Jueves;Clase Batería;57;9;10:00;14:00;1
+9083;TRL2;Alejandro De Marinis;1er. Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Taller de Ritmos Latinoamericanos 2;57;141;14:00;15:30;0
+9084;TRL1;Alejandro De Marinis;1er. Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Taller de Ritmos Latinoamericanos 1;57;141;15:30;17:00;0
+9085;EFLA;Alejandro De Marinis;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Fusión Latinoamericana (C);57;141;17:00;18:30;0
+9086;TPXS;Alejandro De Marinis;1er. Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Perf en Ritmos por Señas;57;141;18:30;20:00;0
+9087;TAM;Santiago Beer;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Tecnología Aplicada a la Música;57;127;11:30;13:00;0
+9088;INA1;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Introducción a audioperceptiva 1;57;122;13:00;14:30;0
+9089;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Jueves;Guitarra-B;57;122;14:30;15:30;0
+9090;PNO;Pia Hernandez;1er. Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;57;204;15:00;17:00;1
+9101;EAP1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 1;57;104;17:00;18:30;0
+9102;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;57;104;16:00;17:00;0
+9103;NTM1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;57;104;18:30;20:00;0
+9104;INA1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Jueves;Introducción a audioperceptiva 1;57;104;20:00;21:30;0
+9105;MEZ2;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Mezcla 2;57;127;15:30;17:00;0
+9106;BAT;Fernando Martinez;1er. Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 18:00:00.000;Jueves;Clase Batería;57;9;16:00;18:00;1
+9107;GUIA;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-A;57;160;20:00;21:00;0
+9108;GUIB;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;57;160;17:30;18:30;0
+9109;TJZD;Enrique Peña;1er. Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Jazz (D);57;160;18:30;20:00;0
+9110;EAP1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Audioperceptiva 1;57;104;10:00;11:30;0
+9111;GUIC;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 16:30:00.000;Viernes;Guitarra para Cantantes;57;104;13:00;16:30;1
+9112;NTM2;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 2;57;104;11:30;13:00;0
+9114;EFLC;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);57;171;10:00;11:30;0
+9115;EJAC;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);57;30;11:30;13:00;0
+9116;GUIB;Juan Pablo Arredondo;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;57;30;13:00;14:00;0
+9144;TPR1;Pablo Diaz;1er. Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;57;132;13:00;14:30;0
+9149;PR2;Santiago Beer;1er. Cuatrimestre 2023;1;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Lunes;Producción 2 Tesis;57;127;14:00;15:30;0
+9150;APC3;Camilo Reiners;1er. Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Miércoles;Armonía Popular Contemporánea 3;57;124;17:30;19:00;0
+9151;ARR1;Gabriel Toker;1er. Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Arreglos 1;57;17;10:00;11:30;0
+9158;GUIB;Enrique Peña;1er. Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:00:00.000;Lunes;Guitarra-B;57;160;17:00;18:00;0
+9147;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;57;122;17:30;18:30;0
+9153;INA1;Candelaria Molina Zavalia;1er. Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 1;57;104;11:30;13:00;0
+9159;TROB;Andres Ollari;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 09:30:00.000;Martes;Clase Trombón;57;194;09:00;09:30;1
+9181;PR2;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Lunes;Producción 2 Tesis;58;127;15:30;17:00;0
+9182;AML;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Arreglos Música Latinoamericana;58;171;18:30;20:00;0
+9183;PNO;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Clase Piano;58;171;17:00;18:30;1
+9191;TAM;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Tecnología Aplicada a la Música;58;159;18:30;20:00;0
+9192;MEZ1;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Mezcla 1;58;127;11:30;13:00;0
+9193;PNO;Gabriel Toker;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Clase Piano;58;17;10:00;11:30;1
+9194;MAS;Pablo Lopez Ruiz;2do Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Mastering;58;8;17:30;19:00;0
+9195;MEZ2;Pablo Lopez Ruiz;2do Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Mezcla 2;58;8;16:00;17:30;0
+9196;TIM3;Cecilia Colombo;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Taller de Interpretación y Movimiento 3;58;24;14:30;16:00;0
+9237;PNOC;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Piano Complementario;58;17;13:00;14:30;0
+9238;PNO;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;58;17;15:00;17:00;1
+9239;BAJ;Pablo Tesare;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Bajo;58;169;13:00;15:00;1
+9269;PNOC;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Miércoles;Piano Complementario;58;204;16:00;17:30;0
+9270;CAN;Nora Olga Malatesta;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Canto;58;21;10:00;17:00;1
+9271;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Miércoles;Guitarra-B;58;160;12:00;13:00;0
+9272;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;58;104;13:00;14:00;0
+9273;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;58;122;17:30;18:30;0
+9274;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;58;104;17:30;18:30;0
+9275;CPC1;Juan Pollo Raffo;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Miércoles;Composición Popular Contemporánea 1;58;12;12:00;13:30;0
+9276;APC4;Juan Pollo Raffo;2do Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Miércoles;Armonía Popular Contemporánea 4;58;12;13:30;15:00;0
+9281;INA2;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Introducción a audioperceptiva 2;58;160;13:00;14:30;0
+9282;PNO;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Piano;58;171;11:30;14:00;1
+9283;CAN;Eleonora Eubel;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Canto;58;101;11:30;14:30;1
+9284;PNO;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Clase Piano;58;171;15:30;16:30;1
+9285;CAN;Eleonora Eubel;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Canto;58;101;15:30;20:00;1
+9286;APM;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;58;104;18:30;20:00;0
+9302;EAP2;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 2;58;171;20:00;21:30;0
+9332;EAP3;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Audioperceptiva 3;58;17;10:00;11:30;0
+9333;PTS;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Pro Tools;58;195;11:30;13:00;0
+9334;IPM;Santiago Beer;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Intro Producción Musical;58;127;10:00;11:30;0
+9335;MEZ1;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Jueves;Mezcla 1;58;195;13:30;15:00;0
+9336;PTS;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Jueves;Pro Tools;58;195;15:00;16:30;0
+9373;APT1;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Audioperceptiva Técnica 1;58;159;14:30;16:00;0
+9374;EMO;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Evolución de la Música Occidental;58;23;13:30;15:00;0
+9375;GRA;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:30:00.000;Viernes;Grabacion;58;159;11:30;13:30;0
+9376;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Viernes;Guitarra-A;58;122;10:30;11:30;0
+9377;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 1;58;122;11:30;13:00;0
+9378;PTS;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;58;159;10:00;11:30;0
+9379;TCV2;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Técnica en Conducción de Voces 2;58;23;15:00;16:30;0
+9380;CTO2;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Contrapunto 2;58;23;16:30;18:00;0
+9381;ORQ1;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Orquestación 1;58;23;18:00;19:30;0
+9382;APC1;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Armonía Popular Contemporánea 1;58;124;11:30;13:00;0
+9383;INA1;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;58;124;13:00;14:30;0
+9384;TAVC;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Arreglos Vocales (C);58;124;10:00;11:30;0
+9385;TRFC;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Rock Fusion C;58;122;13:00;14:30;0
+9164;TPR1;Ignacio Abad;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Viernes;Teoría y Practica del Ritmo 1;57;171;09:00;10:30;0
+9391;PNO;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;58;204;11:00;11:30;1
+9392;APM;Daniel Johansen;2do Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Jueves;Apreciación Musical;58;6;09:00;10:30;0
+9395;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-B;58;160;16:30;17:30;0
+9396;TAM;Santiago Beer;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Jueves;Tecnología Aplicada a la Música;57;127;09:00;10:30;0
+9397;PME2;Santiago Domingo Devia;2do Cuatrimestre 2023;1;1900-01-01 09:30:00.000;1900-01-01 11:00:00.000;Jueves;Producción de Música Electrónica 2;58;205;09:30;11:00;0
+9399;PRO;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Producción 1;58;127;10:00;11:30;0
+9400;PME;Santiago Domingo Devia;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Producción de Música Electrónica;58;205;10:00;11:30;0
+9401;APC1;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;58;17;18:30;20:00;0
+9402;LBC;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Laboratorio de Batería Complementaria;58;132;10:00;11:30;0
+9405;PNOC;Lucas Pierro;2do Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Piano Complementario;58;209;20:00;21:30;0
+9406;PNOC;Lucas Pierro;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Piano Complementario;58;209;18:30;20:00;0
+9407;PNO;Lucas Pierro;2do Cuatrimestre 2023;0;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Piano;58;209;18:00;20:00;1
+9408;PNOC;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Piano Complementario;58;17;11:30;13:00;0
+9412;LBC;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Viernes;Laboratorio de Batería Complementaria;58;132;10:00;11:00;0
+9414;CAN;Rocio Carletti;2do Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 18:30:00.000;Miércoles;Clase Canto;58;189;18:00;18:30;1
+9417;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Miércoles;Guitarra-B;58;160;14:30;15:30;0
+9418;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Miércoles;Guitarra para Cantantes;58;104;14:00;15:30;1
+9421;NTM1;Gabriel Toker;Cuatrimestre Verano 2024;0;1900-01-01 12:00:00.000;1900-01-01 14:00:00.000;Jueves;Notación y Teoría Musical 1;59;17;12:00;14:00;0
+9423;APC2;Juan Pollo Raffo;1er Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Lunes;Armonía Popular Contemporánea 2;60;12;12:00;13:30;0
+9301;APC2;Daniel Johansen;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 2;58;6;18:30;20:00;0
+9410;PNO;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;58;17;15:30;17:00;1
+9424;APC3;Juan Pollo Raffo;1er Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Lunes;Armonía Popular Contemporánea 3;60;12;13:30;15:00;0
+9425;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Lunes;Guitarra-B;60;122;11:00;12:00;0
+9443;PNO;Gabriel Toker;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Clase Piano;60;17;10:00;11:30;1
+9444;IPM;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Intro Producción Musical;60;127;17:00;18:30;0
+9445;MEZ1;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Mezcla 1;60;127;11:30;13:00;0
+9446;PR2;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Lunes;Producción 2 Tesis;60;127;15:30;17:00;0
+9447;TAM;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Tecnología Aplicada a la Música;60;127;18:30;20:00;0
+9448;PNO;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Clase Piano;60;171;17:00;18:30;1
+9449;PNOC;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Piano Complementario;60;171;18:30;20:00;0
+9450;APT1;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Audioperceptiva Técnica 1;60;159;18:00;19:30;0
+9451;MAS;Pablo Lopez Ruiz;1er Cuatrimestre 2024;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Mastering;60;8;17:30;19:00;0
+9452;MEZ2;Pablo Lopez Ruiz;1er Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Mezcla 2;60;8;16:00;17:30;0
+9453;MEZ3;Pablo Lopez Ruiz;1er Cuatrimestre 2024;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Mezcla 3;60;8;19:30;21:00;0
+9454;PTS;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Pro Tools;60;159;19:30;21:00;0
+9455;PNO;Gabriel Toker;1er Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Clase Piano;60;17;18:00;20:00;1
+9456;IES;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Instrumentos en el Estudio;60;127;18:00;20:00;0
+9457;PNOC;Gabriel Toker;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Piano Complementario;60;17;11:30;13:00;0
+9458;GRA;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 12:00:00.000;Lunes;Grabacion;60;159;10:00;12:00;0
+9459;APM;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;60;124;10:00;11:30;0
+9460;APC1;Daniel Johansen;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Armonía Popular Contemporánea 1;60;6;11:30;13:00;0
+9461;APC1;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;60;30;18:30;20:00;0
+9462;APC2;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Armonía Popular Contemporánea 2;60;30;13:00;14:30;0
+9463;BAJ;Alejandro Herrera;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;60;120;18:30;20:00;1
+9464;PNO;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 18:00:00.000;Martes;Clase Piano;60;204;15:00;18:00;1
+9465;TPT;Andres Ollari;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Martes;Clase Trompeta;60;194;10:00;11:00;1
+9466;GUIA;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Martes;Guitarra-A;60;30;14:30;15:30;0
+9467;GUIA;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Martes;Guitarra-A;60;190;17:30;18:30;0
+9468;GUIB;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;60;104;13:00;14:00;0
+9469;GUIB;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Martes;Guitarra-B;60;190;16:30;17:30;0
+9470;INA2;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 2;60;104;11:30;13:00;0
+9471;NTM1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Notación y Teoría Musical 1;60;104;10:00;11:30;0
+9472;NTM2;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Notación y Teoría Musical 2;60;204;13:00;14:30;0
+9473;PNOC;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Piano Complementario;60;204;10:00;11:30;0
+9474;PNO;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Clase Piano;60;17;11:30;13:00;1
+9475;PNOC;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Piano Complementario;60;17;13:00;14:30;0
+9483;BAJ;Pablo Tesare;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Martes;Clase Bajo;60;169;11:00;13:00;1
+9484;CAN;Julia Moscardini;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 19:00:00.000;Martes;Clase Canto;60;211;13:00;19:00;1
+9485;EJAB;Juan Cruz De Urquiza;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Ensamble Jazz (B);60;3;10:00;11:30;0
+9486;EJAD;Juan Cruz De Urquiza;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Ensamble Jazz (D);60;3;11:30;13:00;0
+9487;BAT;Santiago Hernandez;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 19:30:00.000;Martes;Clase Batería;60;203;11:00;19:30;1
+9172;ENBC;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Ensamble de Blues (C);58;122;13:00;14:30;0
+9173;EJAD;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Ensamble Jazz (D);58;160;11:30;13:00;0
+9174;EROC;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Ensamble Rock (C);58;122;17:30;19:00;0
+9175;GRA;Pablo Lopez Ruiz;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Grabacion;58;8;11:00;14:00;0
+9176;GUIA;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Guitarra-A;58;160;10:30;11:30;0
+9177;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Lunes;Guitarra-A;58;122;16:30;18:30;0
+9178;TIM1;Cecilia Colombo;2do Cuatrimestre 2023;0;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Taller de Interpretación y Movimiento 1;58;24;19:30;21:00;0
+9179;TIM2;Cecilia Colombo;2do Cuatrimestre 2023;0;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;58;24;18:00;19:30;0
+9180;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Lunes;Guitarra-B;58;122;14:30;15:30;0
+9184;PNO;Gabriel Toker;2do Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Clase Piano;58;17;18:00;19:30;1
+9185;MEZ3;Pablo Lopez Ruiz;2do Cuatrimestre 2023;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Mezcla 3;58;8;19:30;21:00;0
+9186;PTS;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Lunes;Pro Tools;58;159;20:00;21:30;0
+9188;PNOC;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Lunes;Piano Complementario;58;171;20:00;21:30;0
+9189;IPM;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Intro Producción Musical;58;127;17:00;18:30;0
+9202;APC1;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;58;30;18:30;20:00;0
+9203;APC2;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Armonía Popular Contemporánea 2;58;30;13:00;14:30;0
+9204;APC2;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 2;58;17;18:30;20:00;0
+9205;EAP1;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Audioperceptiva 1;58;17;17:00;18:30;0
+9206;EAP2;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Audioperceptiva 2;58;124;11:30;13:00;0
+9207;BAT;Santiago Hernandez;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 19:00:00.000;Martes;Clase Batería;58;203;11:00;19:00;1
+9208;PNO;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 18:00:00.000;Martes;Clase Piano;58;204;15:00;18:00;1
+9209;EFLC;Adan Silveyra;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Ensamble Folclore (C);58;190;18:30;20:00;0
+9210;EJAB;Juan Cruz De Urquiza;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Jazz (B);58;3;15:30;17:00;0
+9211;EJAD;Juan Cruz De Urquiza;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Martes;Ensamble Jazz (D);58;3;14:00;15:30;0
+9212;EJFU;Alejandro Herrera;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Ensamble Jazz Fusion (C);58;120;17:00;18:30;0
+9213;GUIA;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Martes;Guitarra-A;58;30;14:30;15:30;0
+9214;GUIA;Adan Silveyra;2do Cuatrimestre 2023;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Martes;Guitarra-A;58;190;17:30;18:30;0
+9215;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;58;104;13:00;14:00;0
+9216;GUIB;Adan Silveyra;2do Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Martes;Guitarra-B;58;190;16:30;17:30;0
+9217;INA2;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 2;58;104;11:30;13:00;0
+9218;MFA;Adan Silveyra;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Martes;Música Folclórica Argentina;58;190;15:00;16:30;0
+9219;NTM2;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Notación y Teoría Musical 2;58;204;13:00;14:30;0
+9220;PGI;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Práctica Grupal de Improvisación;58;30;15:30;17:00;0
+9227;CAN;Nora Olga Malatesta;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Canto;58;21;10:00;15:30;1
+9228;PNO;Ricardo Nole;2do Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Piano;58;19;13:00;15:30;1
+9229;PNO;Ricardo Nole;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;58;19;18:30;20:00;1
+9230;CTO1;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Contrapunto 1;58;23;18:30;20:00;0
+9231;IVI;Leandro Zilberberg;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Instrumentos Virtuales;58;207;18:30;20:00;0
+9232;PNOC;Ricardo Nole;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;58;19;17:00;18:30;0
+9233;PNOC;Ricardo Nole;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Piano Complementario;58;19;20:00;21:30;0
+9234;PRO;Matías Dante Moriones;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Producción 1;58;191;11:30;13:00;0
+9235;TCV1;Teodoro Cromberg;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Técnica en Conducción de Voces 1;58;23;20:00;21:30;0
+9236;TAM;Matías Dante Moriones;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Tecnología Aplicada a la Música;58;191;10:00;11:30;0
+9240;ER&B;Pablo Tesare;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Ensamble R&B Soul (C);58;169;11:30;13:00;0
+9257;BAT;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Batería;58;132;15:00;17:00;1
+9258;EIMP;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Ensamble Improvisacion Libre (C);58;204;14:30;16:00;0
+9259;EJAC;Jerónimo Carmona;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble Jazz (C);58;121;13:00;14:30;0
+9260;ESFU;Pablo Tesare;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Ensamble Soul Funk (C);58;169;17:00;18:30;0
+9261;ERI;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Entrenamiento Rítmico ;58;132;13:00;14:30;0
+9262;GRA;Fernando Richard;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 21:30:00.000;Miércoles;Grabacion;58;159;18:30;21:30;0
+9263;LBC;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Laboratorio de Batería Complementaria;58;132;18:30;20:00;0
+9264;TIM1;Cecilia Colombo;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Taller de Interpretación y Movimiento 1;58;24;10:00;11:30;0
+9265;TIM2;Cecilia Colombo;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Taller de Interpretación y Movimiento 2;58;24;11:30;13:00;0
+9266;TPR1;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Teoría y Practica del Ritmo 1;58;132;11:30;13:00;0
+9267;TPR1;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Teoría y Practica del Ritmo 1;58;132;17:00;18:30;0
+9268;PNOC;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Miércoles;Piano Complementario;58;171;14:00;15:30;0
+9287;INA1;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 1;58;104;20:00;21:30;0
+9288;APM;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;58;171;18:30;20:00;0
+9289;ARR1;Daniel Johansen;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Arreglos 1;58;6;11:30;13:00;0
+9248;GUIB;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Guitarra-B;58;160;15:30;16:30;0
+9249;NTM1;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 1;58;160;18:30;20:00;0
+9250;TAM;Fernando Richard;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Tecnología Aplicada a la Música;58;159;17:00;18:30;0
+9251;BAJ;Jerónimo Carmona;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Bajo;58;121;11:30;13:00;1
+9252;BAJ;Jerónimo Carmona;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;58;121;15:00;17:00;1
+9253;BAJ;Pablo Tesare;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;58;169;15:00;17:00;1
+9254;SAXF;Luis Nacht;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Clase Saxo / Flauta;58;136;10:00;11:30;1
+9255;SAXF;Luis Nacht;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Miércoles;Clase Saxo / Flauta;58;136;13:00;15:00;1
+9256;EJAD;Luis Nacht;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Ensamble Jazz (D);58;136;11:30;13:00;0
+9277;NTM2;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 2;58;122;18:30;20:00;0
+9278;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Notación y Teoría Musical 1;58;122;20:00;21:30;0
+9279;INA2;Enrique Peña;2do Cuatrimestre 2023;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 2;58;160;20:00;21:30;0
+9280;APC1;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Armonía Popular Contemporánea 1;58;104;11:30;13:00;0
+9290;ARR2;Daniel Johansen;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Arreglos 2;58;6;10:00;11:30;0
+9291;CAN;Rocio Carletti;2do Cuatrimestre 2023;1;1900-01-01 12:00:00.000;1900-01-01 15:00:00.000;Miércoles;Clase Canto;58;189;12:00;15:00;1
+9292;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;58;122;13:00;14:00;0
+9293;IVI;Matías Dante Moriones;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Instrumentos Virtuales;58;191;11:30;13:00;0
+9294;INA2;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 2;58;122;11:30;13:00;0
+9295;MIM;Matías Dante Moriones;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música en Imagen;58;191;10:00;11:30;0
+9296;PRP;Ilutovich Fernandez;2do Cuatrimestre 2023;1;1900-01-01 19:00:00.000;1900-01-01 21:00:00.000;Miércoles;Practicas Profesionales;58;187;19:00;21:00;0
+9297;NTM2;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 2;58;122;10:00;11:30;0
+9298;EAP3;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Audioperceptiva 3;58;124;17:00;18:30;0
+9299;APC3;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 3;58;124;18:30;20:00;0
+9300;EAP1;Camilo Reiners;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 1;58;124;20:00;21:30;0
+9303;PNO;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 18:00:00.000;1900-01-01 18:30:00.000;Miércoles;Clase Piano;58;171;18:00;18:30;1
+9304;PNO;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;58;17;15:00;17:00;1
+9305;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Jueves;Guitarra-B;58;122;13:00;14:00;0
+9306;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:00:00.000;Jueves;Guitarra-B;58;122;14:00;15:00;0
+9307;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;58;122;16:00;17:00;0
+9308;IPM;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Intro Producción Musical;58;195;17:00;18:30;0
+9309;INA1;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 1;58;122;18:30;20:00;0
+9310;MEZ1;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Mezcla 1;58;195;18:30;20:00;0
+9311;NTM2;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Notación y Teoría Musical 2;58;122;17:00;18:30;0
+9312;PNOC;Ricardo Nole;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Piano Complementario;58;19;10:00;11:30;0
+9313;PNOC;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Piano Complementario;58;17;11:30;13:00;0
+9314;PNOC;Ricardo Nole;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;58;19;17:00;18:30;0
+9315;ARR1;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Arreglos 1;58;17;18:30;20:00;0
+9316;BAT;Fernando Martinez;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Batería;58;9;10:00;14:30;1
+9317;BAT;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Clase Batería;58;132;17:00;18:30;1
+9318;EJAD;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Ensamble Jazz (D);58;17;13:00;14:30;0
+9319;EPOP;Carletti Nicholson -;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Ensamble POP;58;193;11:30;13:00;0
+9320;TAM;Santiago Beer;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Tecnología Aplicada a la Música;58;127;11:30;13:00;0
+9321;CAN;Rocio Carletti;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Clase Canto;58;189;10:00;11:30;1
+9322;CAN;Rocio Carletti;2do Cuatrimestre 2023;0;1900-01-01 13:30:00.000;1900-01-01 15:30:00.000;Jueves;Clase Canto;58;189;13:30;15:30;1
+9323;EAP2;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 2;58;17;17:00;18:30;0
+9324;CAN;Eleonora Eubel;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Canto;58;101;12:00;14:30;1
+9325;CAN;Eleonora Eubel;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Canto;58;101;15:30;20:00;1
+9326;PNO;Ricardo Nole;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 16:00:00.000;Jueves;Clase Piano;58;19;11:30;16:00;1
+9327;ECBC;Ricardo Nole;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Ensamble Candombe Brazilian (C);58;19;18:30;20:00;0
+9328;TRL1;Alejandro De Marinis;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Taller de Ritmos Latinoamericanos 1;58;141;15:30;17:00;0
+9329;TPR1;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Teoría y Practica del Ritmo 1;58;132;18:30;20:00;0
+9330;APC2;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Armonía Popular Contemporánea 2;58;124;10:00;11:30;0
+9331;ARR1;Camilo Reiners;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Arreglos 1;58;124;11:30;13:00;0
+9337;MEZ2;Santiago Beer;2do Cuatrimestre 2023;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Mezcla 2;58;127;14:00;15:30;0
+9338;MEZ3;Santiago Beer;2do Cuatrimestre 2023;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Mezcla 3;58;127;15:30;17:00;0
+9339;EFLA;Alejandro De Marinis;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Fusión Latinoamericana (C);58;141;17:00;18:30;0
+9340;TPXS;Alejandro De Marinis;2do Cuatrimestre 2023;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Perf en Ritmos por Señas;58;141;18:30;20:00;0
+9341;BAJ;Pablo Tesare;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Bajo;58;169;11:30;13:00;1
+9342;CAN;Lea Franov;2do Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Canto;58;202;16:00;17:00;1
+9343;GUIB;Enrique Peña;2do Cuatrimestre 2023;1;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Jueves;Guitarra-B;58;160;11:00;12:00;0
+9344;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-B;58;104;20:00;21:00;0
+9345;INA2;Candelaria Molina Zavalia;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 2;58;104;18:30;20:00;0
+9346;NTM2;Candelaria Molina Zavalia;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Notación y Teoría Musical 2;58;104;17:00;18:30;0
+9347;PME;Santiago Domingo Devia;2do Cuatrimestre 2023;1;1900-01-01 11:00:00.000;1900-01-01 12:30:00.000;Jueves;Producción de Música Electrónica;58;205;11:00;12:30;0
+9348;ABLE;Santiago Domingo Devia;2do Cuatrimestre 2023;1;1900-01-01 09:30:00.000;1900-01-01 11:00:00.000;Jueves;Ableton Live;58;205;09:30;11:00;0
+9349;GUIA;Enrique Peña;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-A;58;160;20:00;21:00;0
+9350;GUIB;Enrique Peña;2do Cuatrimestre 2023;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;58;160;17:30;18:30;0
+9351;TJZD;Enrique Peña;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Jazz (D);58;160;18:30;20:00;0
+9352;PNOC;Ignacio Abad;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Piano Complementario;58;171;18:30;20:00;0
+9353;BAT;Fernando Martinez;2do Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 18:00:00.000;Jueves;Clase Batería;58;9;16:00;18:00;1
+9354;ARR1;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Arreglos 1;58;171;11:30;13:00;0
+9355;EFLC;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);58;171;10:00;11:30;0
+9356;EJAC;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);58;30;11:30;13:00;0
+9357;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Viernes;Guitarra para Cantantes;58;104;13:00;16:00;1
+9358;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Notación y Teoría Musical 1;58;122;10:00;11:30;0
+9359;NTM2;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Notación y Teoría Musical 2;58;104;10:00;11:30;0
+9360;BAT;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;58;132;11:00;13:00;1
+9361;PNO;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Clase Piano;58;171;13:00;14:30;1
+9362;PNO;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Viernes;Clase Piano;58;171;16:30;18:30;1
+9363;GUIB;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;58;30;13:00;14:00;0
+9364;INA2;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Introducción a audioperceptiva 2;58;204;11:30;13:00;0
+9365;PNOC;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Piano Complementario;58;171;15:00;16:30;0
+9366;TPR1;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;58;132;13:00;14:30;0
+9367;CAN;Lea Franov;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 16:30:00.000;Viernes;Clase Canto;58;202;14:30;16:30;1
+9368;INA1;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Introducción a audioperceptiva 1;58;104;11:30;13:00;0
+9369;TEJ;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Estilos Jazz;58;204;13:00;14:30;0
+9370;CAN;Lea Franov;2do Cuatrimestre 2023;0;1900-01-01 12:00:00.000;1900-01-01 14:00:00.000;Viernes;Clase Canto;58;202;12:00;14:00;1
+9371;PNO;Gabriel Toker;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;58;17;10:00;11:30;1
+9372;PNOC;Gabriel Toker;2do Cuatrimestre 2023;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Piano Complementario;58;17;11:30;13:00;0
+9386;BAT;Pablo Diaz;2do Cuatrimestre 2023;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Viernes;Clase Batería;58;132;20:00;21:00;1
+9387;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:00:00.000;Viernes;Guitarra-A;58;122;17:00;18:00;0
+9388;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2023;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Viernes;Guitarra-B;58;122;16:00;17:00;0
+9389;LBC;Pablo Diaz;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Laboratorio de Batería Complementaria;58;132;17:00;18:30;0
+9390;TPR1;Pablo Diaz;2do Cuatrimestre 2023;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Viernes;Teoría y Practica del Ritmo 1;58;132;18:30;20:00;0
+9393;APM;Daniel Johansen;1er. Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Jueves;Apreciación Musical;57;6;09:00;10:30;0
+9394;EAP2;Ignacio Abad;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Audioperceptiva 2;58;171;10:00;11:30;0
+9398;MAS;Fernando Richard;2do Cuatrimestre 2023;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Mastering;58;159;10:00;11:30;0
+9403;PTS;Leandro Zilberberg;2do Cuatrimestre 2023;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Pro Tools;58;207;17:00;18:30;0
+9404;PTS;Paulina Chiarantano;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Pro Tools;58;195;10:00;11:30;0
+9409;PNO;Lucas Pierro;2do Cuatrimestre 2023;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Clase Piano;58;209;17:00;18:30;1
+9411;INA1;Candelaria Molina Zavalia;2do Cuatrimestre 2023;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Introducción a audioperceptiva 1;58;104;10:00;11:30;0
+9413;BAT;Pablo Diaz;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:00:00.000;Viernes;Clase Batería;58;132;14:30;15:00;1
+9415;PNO;Gabriel Toker;2do Cuatrimestre 2023;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Martes;Clase Piano;58;17;10:30;11:30;1
+9416;PNO;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 15:00:00.000;Viernes;Clase Piano;58;204;14:30;15:00;1
+9419;PR2;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Lunes;Producción 2 Tesis;58;127;14:00;15:30;0
+9488;EFLD;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Ensamble Folclore (D);60;190;18:30;20:00;0
+9489;EJFU;Alejandro Herrera;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Ensamble Jazz Fusion (C);60;120;17:00;18:30;0
+9490;RIM;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Recursos de Improvisación;60;30;15:30;17:00;0
+9491;ARR1;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Arreglos 1;60;17;10:00;11:30;0
+9492;ER&B;Pablo Tesare;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Ensamble R&B Soul (C);60;169;13:00;14:30;0
+9493;CAN;Silvia Aramayo;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Canto;60;208;10:00;17:00;1
+9494;EAP1;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Audioperceptiva 1;60;124;13:00;14:30;0
+9495;EAP2;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Audioperceptiva 2;60;124;11:30;13:00;0
+9496;BAJ;Alejandro Herrera;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Bajo;60;120;15:00;17:00;1
+9497;EVOC;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Vocal;60;124;15:30;17:00;0
+9498;INA1;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 1;60;204;11:30;13:00;0
+9499;INA1;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Introducción a audioperceptiva 1;60;124;17:00;18:30;0
+9500;CAN;Nora Olga Malatesta;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;60;21;10:00;15:00;1
+9420;GUIA;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Guitarra-A;58;30;09:00;10:30;0
+9501;PNO;Ricardo Nole;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 16:30:00.000;Martes;Clase Piano;60;19;13:00;16:30;1
+9502;PNO;Ricardo Nole;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;60;19;18:30;20:00;1
+9503;CTO1;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Contrapunto 1;60;23;18:30;20:00;0
+9504;GUIB;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Martes;Guitarra-B;60;160;10:30;11:30;0
+9505;NTM1;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Notación y Teoría Musical 1;60;160;11:30;13:00;0
+9506;PNOC;Ricardo Nole;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;60;19;17:00;18:30;0
+9507;PNOC;Ricardo Nole;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Piano Complementario;60;19;20:00;21:30;0
+9508;PRO;Matías Dante Moriones;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Producción 1;60;191;11:30;13:00;0
+9509;TCV1;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Técnica en Conducción de Voces 1;60;23;20:00;21:30;0
+9510;TAM;Matías Dante Moriones;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Tecnología Aplicada a la Música;60;191;10:00;11:30;0
+9511;CAN;Eleonora Eubel;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;60;101;13:00;15:00;1
+9514;CAN;Nora Olga Malatesta;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Canto;60;21;10:00;17:00;1
+9515;GUIA;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-A;60;160;16:30;17:30;0
+9516;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Miércoles;Guitarra-B;60;160;14:30;15:30;0
+9517;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Guitarra-B;60;160;15:30;16:30;0
+9518;INA1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 1;60;104;20:00;21:30;0
+9519;INA2;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Introducción a audioperceptiva 2;60;122;18:30;20:00;0
+9520;NTM1;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 1;60;160;18:30;20:00;0
+9521;NTM2;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Notación y Teoría Musical 2;60;160;20:00;21:30;0
+9522;TAM;Fernando Richard;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Tecnología Aplicada a la Música;60;159;17:00;18:30;0
+9523;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;60;122;17:30;18:30;0
+9552;GUIB;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;60;104;13:00;14:00;0
+9553;MEI;Fernando Richard;1er Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Miércoles;Mezcla Inmersiva;60;159;14:00;15:30;0
+9563;PNO;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Piano;60;171;13:00;14:00;1
+9564;APC2;Daniel Johansen;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 2;60;6;18:30;20:00;0
+9565;ARR1;Daniel Johansen;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Arreglos 1;60;6;11:30;13:00;0
+9566;ARR2;Daniel Johansen;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Arreglos 2;60;6;10:00;11:30;0
+9567;CAN;Rocio Carletti;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Miércoles;Clase Canto;60;189;13:00;16:00;1
+9568;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;60;122;13:00;14:00;0
+9569;IVI;Matías Dante Moriones;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Instrumentos Virtuales;60;191;11:30;13:00;0
+9570;INA1;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Introducción a audioperceptiva 1;60;122;10:00;11:30;0
+9571;INA2;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 2;60;122;11:30;13:00;0
+9572;MIM;Matías Dante Moriones;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música en Imagen;60;191;10:00;11:30;0
+9573;APM;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;60;171;18:30;20:00;0
+9574;APC3;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 3;60;124;18:30;20:00;0
+9575;PNO;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Clase Piano;60;171;20:00;21:30;1
+9576;PRP;Ilutovich Fernandez;1er Cuatrimestre 2024;1;1900-01-01 19:00:00.000;1900-01-01 21:00:00.000;Miércoles;Practicas Profesionales;60;187;19:00;21:00;0
+9577;EAP2;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Audioperceptiva 2;60;171;17:00;18:30;0
+9578;APC1;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Armonía Popular Contemporánea 1;60;17;17:00;18:30;0
+9579;ARR1;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Arreglos 1;60;17;18:30;20:00;0
+9580;EAP3;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Audioperceptiva 3;60;17;11:30;13:00;0
+9581;PNO;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;60;17;15:00;17:00;1
+9582;INA1;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Introducción a audioperceptiva 1;60;122;13:00;14:30;0
+9583;MEZ1;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Jueves;Mezcla 1;60;195;13:30;15:00;0
+9584;PNOC;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Piano Complementario;60;17;10:00;11:30;0
+9585;PNOC;Ricardo Nole;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;60;19;17:00;18:30;0
+9586;PTS;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Jueves;Pro Tools;60;195;15:00;16:30;0
+9587;TAM;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Tecnología Aplicada a la Música;60;195;17:00;18:30;0
+9588;PTS;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Pro Tools;60;195;11:30;13:00;0
+9593;NTM1;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;60;122;18:30;20:00;0
+9594;BAT;Fernando Martinez;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Batería;60;9;10:00;14:30;1
+9595;ECBC;Ricardo Nole;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Ensamble Candombe Brazilian (C);60;19;18:30;20:00;0
+9596;EFLA;Alejandro De Marinis;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Fusión Latinoamericana (C);60;141;17:00;18:30;0
+9422;TCC;Sebastian Schon;1er. Cuatrimestre 2023;1;1900-01-01 14:30:00.000;1900-01-01 16:30:00.000;Miércoles;Taller de Creacion de Canciones;57;210;14:30;16:30;0
+9512;PME2;Santiago Domingo Devia;1er Cuatrimestre 2024;1;1900-01-01 09:30:00.000;1900-01-01 11:00:00.000;Martes;Producción de Música Electrónica 2;60;205;09:30;11:00;0
+9597;EJAD;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Ensamble Jazz (D);60;17;13:00;14:30;0
+9598;EPOP;Carletti Nicholson -;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Ensamble POP;60;193;11:30;13:00;0
+9599;TPXS;Alejandro De Marinis;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Perf en Ritmos por Señas;60;141;18:30;20:00;0
+9600;TAM;Santiago Beer;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Tecnología Aplicada a la Música;60;127;11:30;13:00;0
+9601;EAP2;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 2;60;122;17:00;18:30;0
+9602;CAN;Rocio Carletti;1er Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Jueves;Clase Canto;60;189;10:30;11:30;1
+9603;CAN;Lea Franov;1er Cuatrimestre 2024;1;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Jueves;Clase Canto;60;202;11:00;14:00;1
+9604;CAN;Eleonora Eubel;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Canto;60;101;11:00;14:30;1
+9605;CAN;Rocio Carletti;1er Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:30:00.000;Jueves;Clase Canto;60;189;13:30;15:30;1
+9606;CAN;Eleonora Eubel;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Canto;60;101;15:30;20:00;1
+9607;PNO;Ricardo Nole;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 16:30:00.000;Jueves;Clase Piano;60;19;10:00;16:30;1
+9608;GUIB;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Jueves;Guitarra-B;60;160;11:30;12:30;0
+9625;NTM1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Notación y Teoría Musical 1;60;104;17:00;18:30;0
+9627;EAP1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Jueves;Audioperceptiva 1;60;104;20:00;21:30;0
+9628;EAP1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Audioperceptiva 1;60;104;10:00;11:30;0
+9629;BAT;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;60;132;11:30;13:00;1
+9630;PNO;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 17:00:00.000;Viernes;Clase Piano;60;171;11:30;17:00;1
+9631;EFLC;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);60;171;10:00;11:30;0
+9632;EJAC;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);60;30;11:30;13:00;0
+9633;GUIC;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Viernes;Guitarra para Cantantes;60;104;13:00;16:00;1
+9634;GUIB;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;60;30;13:00;14:00;0
+9635;NTM2;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 2;60;104;11:30;13:00;0
+9636;PNOC;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Piano Complementario;60;171;17:00;18:30;0
+9637;TPR1;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;60;132;13:00;14:30;0
+9659;PTS;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Pro Tools;60;159;15:00;16:30;0
+9664;MEZ1;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Mezcla 1;60;195;18:30;20:00;0
+9668;NTM1;Pia Hernandez;2do Cuatrimestre 2023;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Notación y Teoría Musical 1;58;204;09:00;10:30;0
+9669;LBC;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Laboratorio de Batería Complementaria;60;132;18:30;20:00;0
+9670;MAS;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Mastering;60;159;10:00;11:30;0
+9671;PR2;Santiago Beer;1er Cuatrimestre 2024;1;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Lunes;Producción 2 Tesis;60;127;14:00;15:30;0
+9674;NTM1;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 1;60;171;10:00;11:30;0
+9679;GUIC;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 17:00:00.000;Miércoles;Guitarra para Cantantes;60;104;14:00;17:00;1
+9680;GUIC;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 14:30:00.000;Martes;Guitarra para Cantantes;60;104;14:00;14:30;1
+9681;LBC;Pablo Diaz;1er Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Viernes;Laboratorio de Batería Complementaria;60;132;16:00;17:00;0
+9685;EAP2;Camilo Reiners;1er Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Audioperceptiva 2;60;124;09:00;10:30;0
+9831;PRP;Ilutovich Fernandez;2do Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Miércoles;Practicas Profesionales;61;187;18:00;20:00;0
+9832;APT2;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Audioperceptiva Técnica 2;61;159;10:00;11:30;0
+9833;PNO;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Clase Piano;61;171;17:00;18:30;1
+9834;APC2;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Armonía Popular Contemporánea 2;61;124;10:00;11:30;0
+9835;ARR1;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Arreglos 1;61;124;11:30;13:00;0
+9426;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Lunes;Guitarra-B;60;122;12:00;13:00;0
+9427;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Lunes;Guitarra-B;60;160;13:00;14:00;0
+9428;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Lunes;Guitarra-B;60;160;15:00;16:00;0
+9429;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Lunes;Guitarra-B;60;160;16:00;17:00;0
+9430;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 18:00:00.000;1900-01-01 19:00:00.000;Lunes;Guitarra-B;60;160;18:00;19:00;0
+9431;GUIB;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:00:00.000;Lunes;Guitarra-B;60;160;17:00;18:00;0
+9432;EBLU;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Ensamble de Blues (D);60;122;13:00;14:30;0
+9433;EJAC;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Ensamble Jazz (C);60;160;11:30;13:00;0
+9434;EROC;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Ensamble Rock (C);60;122;17:30;19:00;0
+9435;GRA;Pablo Lopez Ruiz;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Grabacion;60;8;11:00;14:00;0
+9436;GUIA;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Guitarra-A;60;160;10:30;11:30;0
+9437;GUIA;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Lunes;Guitarra-A;60;122;16:30;18:30;0
+9438;TIM1;Cecilia Colombo;1er Cuatrimestre 2024;0;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Taller de Interpretación y Movimiento 1;60;24;19:30;21:00;0
+9439;TIM2;Cecilia Colombo;1er Cuatrimestre 2024;0;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;60;24;18:00;19:30;0
+9440;TIM3;Cecilia Colombo;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Taller de Interpretación y Movimiento 3;60;24;14:30;16:00;0
+9441;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Lunes;Guitarra-B;60;122;15:30;16:30;0
+9442;CAN;Rocio Carletti;1er Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 16:30:00.000;Lunes;Clase Canto;60;189;10:30;16:30;1
+9476;PNO;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;60;17;15:00;17:00;1
+9477;PNOC;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Piano Complementario;60;17;18:30;20:00;0
+9478;EAP1;Gabriel Toker;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Audioperceptiva 1;60;17;17:00;18:30;0
+9479;PNO;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;60;209;15:00;17:00;1
+9480;PNOC;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;60;209;17:00;18:30;0
+9481;GUIB;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Martes;Guitarra-B;60;190;15:30;16:30;0
+9482;PNO;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;60;209;18:30;20:00;1
+9513;PNO;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Piano;60;204;12:00;14:00;1
+9524;BAJ;Jerónimo Carmona;1er Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Bajo;60;121;11:00;13:00;1
+9525;BAJ;Jerónimo Carmona;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;60;121;15:00;17:00;1
+9526;BAJ;Pablo Tesare;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;60;169;14:30;17:00;1
+9527;SAXF;Luis Nacht;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Clase Saxo / Flauta;60;136;10:00;11:30;1
+9528;SAXF;Luis Nacht;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Saxo / Flauta;60;136;13:00;14:30;1
+9529;EJAD;Luis Nacht;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Ensamble Jazz (D);60;136;11:30;13:00;0
+9530;GUIA;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Miércoles;Guitarra-A;60;122;20:00;21:00;0
+9531;GUIB;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;60;104;17:30;18:30;0
+9532;APM;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;60;104;18:30;20:00;0
+9533;BAT;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Batería;60;132;15:00;17:00;1
+9534;CAN;Eleonora Eubel;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Canto;60;101;11:30;14:30;1
+9535;CAN;Eleonora Eubel;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 19:30:00.000;Miércoles;Clase Canto;60;101;15:30;19:30;1
+9536;EIMP;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Ensamble Improvisacion Libre (C);60;204;14:30;16:00;0
+9537;EJAC;Jerónimo Carmona;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble Jazz (C);60;121;13:00;14:30;0
+9538;ESFU;Pablo Tesare;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Ensamble Soul Funk (C);60;169;17:00;18:30;0
+9539;ERA;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Entrenamiento Rítmico Avanzado;60;132;13:00;14:30;0
+9540;GRA;Fernando Richard;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 21:30:00.000;Miércoles;Grabacion;60;159;18:30;21:30;0
+9541;INA2;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Introducción a audioperceptiva 2;60;160;13:00;14:30;0
+9542;LBC;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Laboratorio de Batería Complementaria;60;132;10:00;11:30;0
+9543;LBC;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Laboratorio de Batería Complementaria;60;132;18:30;20:00;0
+9544;TIM1;Cecilia Colombo;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Taller de Interpretación y Movimiento 1;60;24;10:00;11:30;0
+9545;TIM2;Cecilia Colombo;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Taller de Interpretación y Movimiento 2;60;24;11:30;13:00;0
+9546;TPR1;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Teoría y Practica del Ritmo 1;60;132;11:30;13:00;0
+9547;TPR1;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Teoría y Practica del Ritmo 1;60;132;17:00;18:30;0
+9548;NTM2;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Notación y Teoría Musical 2;60;160;10:00;11:30;0
+9549;CPC1;Juan Pollo Raffo;1er Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Miércoles;Composición Popular Contemporánea 1;60;12;12:00;13:30;0
+9550;APC4;Juan Pollo Raffo;1er Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Miércoles;Armonía Popular Contemporánea 4;60;12;13:30;15:00;0
+9551;GUIA;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Miércoles;Guitarra-A;60;160;11:30;12:30;0
+9554;PNOC;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Piano Complementario;60;171;14:30;16:00;0
+9555;PNOC;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Piano Complementario;60;204;17:00;18:30;0
+9556;PNOC;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Piano Complementario;60;209;18:30;20:00;0
+9557;PNO;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Clase Piano;60;209;20:00;21:30;1
+9558;PNO;Lucas Pierro;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Clase Piano;60;209;17:00;18:30;1
+9559;NTM1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 1;60;104;10:00;11:30;0
+9560;INA1;Ignacio Abad;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 1;60;171;11:30;13:00;0
+9561;EAP1;Enrique Peña;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Audioperceptiva 1;60;160;10:00;11:30;0
+9562;APC1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Armonía Popular Contemporánea 1;60;104;11:30;13:00;0
+9589;PTS;Paulina Chiarantano;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Pro Tools;60;195;10:00;11:30;0
+9590;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Jueves;Guitarra-B;60;122;10:30;11:30;0
+9591;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Jueves;Guitarra-B;60;122;15:00;16:00;0
+9592;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;60;122;16:00;17:00;0
+9609;BAJ;Pablo Tesare;1er Cuatrimestre 2024;1;1900-01-01 10:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Bajo;60;169;10:30;13:00;1
+9610;BAT;Fernando Martinez;1er Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 18:30:00.000;Jueves;Clase Batería;60;9;16:00;18:30;1
+9611;GUIA;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-A;60;160;20:00;21:00;0
+9612;GUIB;Candelaria Molina Zavalia;1er Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;60;104;16:00;17:00;0
+9613;GUIB;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;60;160;17:30;18:30;0
+9614;PME;Santiago Domingo Devia;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Producción de Música Electrónica;60;205;10:00;11:30;0
+9615;TJZD;Enrique Peña;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Jazz (D);60;160;18:30;20:00;0
+9616;EGMA;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Ensamble de Guitarras de Música Argentina;60;190;15:30;17:00;0
+9617;IPM;Santiago Beer;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Intro Producción Musical;60;127;10:00;11:30;0
+9618;MEZ2;Santiago Beer;1er Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Mezcla 2;60;127;14:00;15:30;0
+9619;MEZ3;Santiago Beer;1er Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Mezcla 3;60;127;15:30;17:00;0
+9620;ETAN;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Tango (C);60;190;17:00;18:30;0
+9621;MFA;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Música Folclórica Argentina;60;190;18:30;20:00;0
+9622;PNOC;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;60;171;17:00;18:30;0
+9623;APC1;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Armonía Popular Contemporánea 1;60;171;18:30;20:00;0
+9624;PNO;Ignacio Abad;1er Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Clase Piano;60;171;20:00;21:00;1
+9626;INA1;Candelaria Molina Zavalia;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 1;60;104;18:30;20:00;0
+9638;APM;Gabriel Toker;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Apreciación Musical;60;17;11:30;13:00;0
+9639;APC1;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Armonía Popular Contemporánea 1;60;124;10:00;11:30;0
+9640;EAP1;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Audioperceptiva 1;60;122;13:00;14:30;0
+9641;EAP3;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Audioperceptiva 3;60;124;18:00;19:30;0
+9642;EAP4;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Audioperceptiva 4;60;124;16:30;18:00;0
+9643;APT1;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Audioperceptiva Técnica 1;60;159;13:30;15:00;0
+9644;BAT;Pablo Diaz;1er Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Clase Batería;60;132;17:00;18:30;1
+9645;PNO;Gabriel Toker;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;60;17;10:00;11:30;1
+9646;CTO2;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Contrapunto 2;60;23;16:30;18:00;0
+9647;GUIB;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Viernes;Guitarra-B;60;122;16:30;17:30;0
+9648;INA1;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;60;124;13:00;14:30;0
+9649;NTM1;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Notación y Teoría Musical 1;60;122;10:00;11:30;0
+9650;ORQ1;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Orquestación 1;60;23;18:00;19:30;0
+9651;PTS;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;60;159;10:00;11:30;0
+9652;TAVC;Camilo Reiners;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Taller de Arreglos Vocales (C);60;124;11:30;13:00;0
+9653;TPBC;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Taller de Performance Blues (C);60;122;14:30;16:00;0
+9654;TCV2;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Técnica en Conducción de Voces 2;60;23;15:00;16:30;0
+9655;TAM;Fernando Richard;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Tecnología Aplicada a la Música;60;159;11:30;13:00;0
+9656;TPR1;Pablo Diaz;1er Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Viernes;Teoría y Practica del Ritmo 1;60;132;18:30;20:00;0
+9657;GUIA;Patricio Andres Nicholson;1er Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Viernes;Guitarra-A;60;122;11:30;12:30;0
+9658;EMO;Teodoro Cromberg;1er Cuatrimestre 2024;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Evolución de la Música Occidental;60;23;13:30;15:00;0
+9660;NTM1;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 1;60;204;11:30;13:00;0
+9661;CAN;Julia Moscardini;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 15:00:00.000;Viernes;Clase Canto;60;211;10:00;15:00;1
+9662;TME;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Música Experimental;60;132;10:00;11:30;0
+9663;TEJ;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Estilos Jazz;60;204;13:00;14:30;0
+9665;TAM;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Tecnología Aplicada a la Música;58;127;09:00;10:30;0
+9666;PTS;Santiago Beer;2do Cuatrimestre 2023;1;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Pro Tools;58;127;09:00;10:30;0
+9673;PNO;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Viernes;Clase Piano;60;204;14:30;15:30;1
+9675;INA1;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;60;204;13:00;14:30;0
+9676;INA1;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Introducción a audioperceptiva 1;60;132;17:00;18:30;0
+9677;NTM1;Adan Silveyra;1er Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;60;190;18:30;20:00;0
+9683;CAN;Nora Olga Malatesta;1er Cuatrimestre 2024;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Clase Canto;60;21;14:30;16:00;1
+9684;BAT;Pablo Diaz;1er Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:00:00.000;Jueves;Clase Batería;60;132;16:30;17:00;1
+9829;MIM;Matías Dante Moriones;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música en Imagen;61;191;10:00;11:30;0
+9830;NTM2;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 2;61;122;10:00;11:30;0
+9667;NTM1;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Notación y Teoría Musical 1;60;204;09:00;10:30;0
+9672;PNO;Pia Hernandez;1er Cuatrimestre 2024;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Piano;60;204;16:00;17:00;1
+9678;CAN;Silvia Aramayo;1er Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Canto;60;208;10:00;13:00;1
+9682;CAN;Nora Olga Malatesta;1er Cuatrimestre 2024;1;1900-01-01 08:30:00.000;1900-01-01 09:00:00.000;Lunes;Clase Canto;60;21;08:30;09:00;1
+9704;AML;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Arreglos Música Latinoamericana;61;171;18:30;20:00;0
+9705;APT1;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Audioperceptiva Técnica 1;61;159;17:00;18:30;0
+9706;PNO;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Clase Piano;61;17;10:00;11:30;1
+9707;PNO;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Clase Piano;61;171;17:00;18:30;1
+9708;PNO;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Clase Piano;61;17;18:00;20:00;1
+9709;IPM;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Intro Producción Musical;61;127;17:00;18:30;0
+9710;MAS;Pablo Lopez Ruiz;2do Cuatrimestre 2024;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Mastering;61;8;17:30;19:00;0
+9711;MEZ1;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Mezcla 1;61;127;11:30;13:00;0
+9712;MEZ2;Pablo Lopez Ruiz;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Mezcla 2;61;8;16:00;17:30;0
+9713;MEZ3;Pablo Lopez Ruiz;2do Cuatrimestre 2024;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Mezcla 3;61;8;19:30;21:00;0
+9714;PNOC;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Lunes;Piano Complementario;61;171;20:00;21:30;0
+9715;PTS;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Lunes;Pro Tools;61;159;20:00;21:30;0
+9716;PR2;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Lunes;Producción 2 Tesis;61;127;15:30;17:00;0
+9717;TAM;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Tecnología Aplicada a la Música;61;159;18:30;20:00;0
+9718;IES;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Instrumentos en el Estudio;61;127;18:00;19:30;0
+9719;APM;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;61;124;10:00;11:30;0
+9720;APC1;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;61;30;18:30;20:00;0
+9721;APC2;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Armonía Popular Contemporánea 2;61;30;13:00;14:30;0
+9722;EAP1;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Audioperceptiva 1;61;124;13:00;14:30;0
+9723;EAP1;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Audioperceptiva 1;61;17;17:00;18:30;0
+9724;EAP2;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Audioperceptiva 2;61;124;11:30;13:00;0
+9725;BAJ;Alejandro Herrera;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Bajo;61;120;15:00;17:00;1
+9726;BAJ;Alejandro Herrera;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;61;120;18:30;20:00;1
+9727;BAT;Santiago Hernandez;2do Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 19:00:00.000;Martes;Clase Batería;61;203;11:00;19:00;1
+9728;CAN;Silvia Aramayo;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Canto;61;208;10:00;17:00;1
+9729;PNO;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 18:00:00.000;Martes;Clase Piano;61;204;15:00;18:00;1
+9730;PNO;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;61;17;15:00;17:00;1
+9731;PNO;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Clase Piano;61;209;17:00;18:30;1
+9732;TPT;Andres Ollari;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Martes;Clase Trompeta;61;194;10:00;11:00;1
+9733;EFLD;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Ensamble Folclore (D);61;190;18:30;20:00;0
+9734;EJFU;Alejandro Herrera;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Ensamble Jazz Fusion (C);61;120;17:00;18:30;0
+9735;EVOC;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Vocal;61;124;15:30;17:00;0
+9736;GUIA;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Martes;Guitarra-A;61;30;14:30;15:30;0
+9737;GUIA;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Martes;Guitarra-A;61;190;17:30;18:30;0
+9738;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;61;104;13:00;14:00;0
+9739;GUIB;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Martes;Guitarra-B;61;190;16:30;17:30;0
+9740;INA1;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 1;61;204;11:30;13:00;0
+9741;INA2;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 2;61;104;11:30;13:00;0
+9742;INA2;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Introducción a audioperceptiva 2;61;124;17:00;18:30;0
+9743;NTM1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Notación y Teoría Musical 1;61;104;10:00;11:30;0
+9744;NTM2;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Notación y Teoría Musical 2;61;204;13:00;14:30;0
+9745;PNOC;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Piano Complementario;61;204;10:00;11:30;0
+9746;PNOC;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Piano Complementario;61;17;13:00;14:30;0
+9747;PNOC;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Piano Complementario;61;209;18:30;20:00;0
+9982;APC2;Juan Pollo Raffo;1er. Cuatrimestre 2025;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Lunes;Armonía Popular Contemporánea 2;62;12;12:00;13:30;0
+9686;APC2;Juan Pollo Raffo;2do Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Lunes;Armonía Popular Contemporánea 2;61;12;13:30;15:00;0
+9687;APC3;Juan Pollo Raffo;2do Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Lunes;Armonía Popular Contemporánea 3;61;12;12:00;13:30;0
+9688;ENBC;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Ensamble de Blues (C);61;122;13:00;14:30;0
+9689;EJAD;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Ensamble Jazz (D);61;160;11:30;13:00;0
+9690;EROC;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Ensamble Rock (C);61;122;17:30;19:00;0
+9691;GRA;Pablo Lopez Ruiz;2do Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Grabacion;61;8;11:00;14:00;0
+9692;GUIA;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Guitarra-A;61;160;10:30;11:30;0
+9693;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Lunes;Guitarra-B;61;122;12:00;13:00;0
+9694;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Lunes;Guitarra-B;61;160;13:00;14:00;0
+9695;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Lunes;Guitarra-B;61;160;15:00;16:00;0
+9696;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Lunes;Guitarra-B;61;160;16:00;17:00;0
+9697;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 18:00:00.000;1900-01-01 19:00:00.000;Lunes;Guitarra-B;61;160;18:00;19:00;0
+9698;TIM1;Cecilia Colombo;2do Cuatrimestre 2024;0;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Taller de Interpretación y Movimiento 1;61;24;19:30;21:00;0
+9699;TIM2;Cecilia Colombo;2do Cuatrimestre 2024;0;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;61;24;18:00;19:30;0
+9700;TIM3;Cecilia Colombo;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Taller de Interpretación y Movimiento 3;61;24;14:30;16:00;0
+9748;PGI;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Práctica Grupal de Improvisación;61;30;15:30;17:00;0
+9749;GUIB;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Martes;Guitarra-B;61;190;15:30;16:30;0
+9750;BAJ;Alejandro Herrera;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;61;120;18:30;20:00;1
+9755;ER&B;Pablo Tesare;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Ensamble R&B Soul (C);61;169;13:00;14:30;0
+9756;CAN;Julia Moscardini;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 19:00:00.000;Martes;Clase Canto;61;211;14:00;19:00;1
+9757;APC1;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Armonía Popular Contemporánea 1;61;17;11:30;13:00;0
+9758;CAN;Nora Olga Malatesta;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Canto;61;21;10:00;15:30;1
+9759;CAN;Eleonora Eubel;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;61;101;13:00;15:00;1
+9760;PNO;Ricardo Nole;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Piano;61;19;13:00;15:30;1
+9761;PNO;Ricardo Nole;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;61;19;18:30;20:00;1
+9762;CTO1;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Contrapunto 1;61;23;18:30;20:00;0
+9763;PNOC;Ricardo Nole;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;61;19;17:00;18:30;0
+9764;PNOC;Ricardo Nole;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Piano Complementario;61;19;20:00;21:30;0
+9765;PRO;Matías Dante Moriones;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Producción 1;61;191;11:30;13:00;0
+9766;PME;Santiago Domingo Devia;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Producción de Música Electrónica;61;205;10:00;11:30;0
+9767;TCV1;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Técnica en Conducción de Voces 1;61;23;20:00;21:30;0
+9768;TAM;Matías Dante Moriones;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Tecnología Aplicada a la Música;61;191;10:00;11:30;0
+9875;BAJ;Pablo Tesare;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Bajo;61;169;11:30;13:00;1
+9876;BAT;Fernando Martinez;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 18:00:00.000;Jueves;Clase Batería;61;9;16:00;18:00;1
+9877;GUIA;Enrique Peña;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-A;61;160;20:00;21:00;0
+9878;GUIB;Enrique Peña;2do Cuatrimestre 2024;1;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Jueves;Guitarra-B;61;160;11:00;12:00;0
+9879;GUIB;Enrique Peña;2do Cuatrimestre 2024;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;61;160;17:30;18:30;0
+9880;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-B;61;104;20:00;21:00;0
+9881;INA2;Candelaria Molina Zavalia;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 2;61;104;18:30;20:00;0
+9882;NTM2;Candelaria Molina Zavalia;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Notación y Teoría Musical 2;61;104;17:00;18:30;0
+9883;PNOC;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Piano Complementario;61;171;18:30;20:00;0
+9884;TJZD;Enrique Peña;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Jazz (D);61;160;18:30;20:00;0
+9885;PME2;Santiago Domingo Devia;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Producción de Música Electrónica 2;61;205;10:00;11:30;0
+9902;EAJT;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Ensamble El Arte de Jazz Trio (C);61;204;13:00;14:30;0
+9903;APT1;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Audioperceptiva Técnica 1;61;159;14:30;16:00;0
+9904;PNO;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;61;17;10:00;11:30;1
+9905;CTO2;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Contrapunto 2;61;23;16:30;18:00;0
+9906;GRA;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:30:00.000;Viernes;Grabacion;61;159;11:30;13:30;0
+9907;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 10:30:00.000;1900-01-01 12:00:00.000;Viernes;Guitarra-A;61;122;10:30;12:00;0
+9908;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 1;61;122;11:30;13:00;0
+9909;PNOC;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Piano Complementario;61;17;11:30;13:00;0
+9701;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Lunes;Guitarra-B;61;122;15:30;16:30;0
+9702;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Lunes;Guitarra-A;61;122;16:30;17:30;0
+9703;CAN;Rocio Carletti;2do Cuatrimestre 2024;0;1900-01-01 10:30:00.000;1900-01-01 16:00:00.000;Lunes;Clase Canto;61;189;10:30;16:00;1
+9751;APC2;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 2;61;17;18:30;20:00;0
+9752;BAJ;Pablo Tesare;2do Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Martes;Clase Bajo;61;169;11:00;13:00;1
+9753;EJAD;Juan Cruz De Urquiza;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Ensamble Jazz (D);61;3;10:00;11:30;0
+9754;EJAB;Juan Cruz De Urquiza;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Ensamble Jazz (B);61;3;11:30;13:00;0
+9869;CAN;Julia Moscardini;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 14:00:00.000;Jueves;Clase Canto;61;211;10:00;14:00;1
+9870;ETAN;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Ensamble Tango (C);61;190;15:30;17:00;0
+9871;BAT;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Clase Batería;61;132;15:30;17:00;1
+9872;TPR1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Teoría y Practica del Ritmo 1;61;132;17:00;18:30;0
+9887;EAP1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Audioperceptiva 1;61;104;11:30;13:00;0
+9888;NTM2;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Notación y Teoría Musical 2;61;104;10:00;11:30;0
+9889;ARR1;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Arreglos 1;61;171;11:30;13:00;0
+9890;PNO;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Viernes;Clase Piano;61;171;16:30;18:30;1
+9891;EFLC;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);61;171;10:00;11:30;0
+9892;EJAC;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);61;30;11:30;13:00;0
+9893;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Viernes;Guitarra para Cantantes;61;104;13:00;16:00;1
+9894;GUIB;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;61;30;13:00;14:00;0
+9895;INA2;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Introducción a audioperceptiva 2;61;204;11:30;13:00;0
+9896;PNOC;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Piano Complementario;61;171;15:00;16:30;0
+9897;TPR1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;61;132;13:00;14:30;0
+9898;PNO;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Clase Piano;61;171;13:00;14:00;1
+9899;CAN;Lea Franov;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 17:00:00.000;Viernes;Clase Canto;61;202;13:00;17:00;1
+9900;TME;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Música Experimental;61;132;10:00;11:30;0
+9901;BAT;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;61;132;11:30;13:00;1
+9915;EAP4;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Viernes;Audioperceptiva 4;61;124;16:00;17:30;0
+9927;INA2;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Introducción a audioperceptiva 2;61;204;11:30;13:00;0
+9928;PNO;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Viernes;Clase Piano;61;171;13:00;15:00;1
+9929;CAN;Lea Franov;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 17:00:00.000;Viernes;Clase Canto;61;202;13:00;17:00;1
+9930;EAJT;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Ensamble El Arte de Jazz Trio (C);61;204;13:00;14:30;0
+9931;TME;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Música Experimental;61;132;10:00;11:30;0
+9949;ORQ1;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Orquestación 1;61;23;18:00;19:30;0
+9951;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Lunes;Guitarra-B;61;122;11:00;12:00;0
+9952;INA1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 1;61;104;20:00;21:30;0
+9953;INA1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 1;61;132;18:30;20:00;0
+9954;CAN;Eleonora Eubel;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Canto;61;101;15:30;20:00;1
+9960;APM;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;61;17;10:00;11:30;0
+9961;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 14:30:00.000;Martes;Guitarra para Cantantes;61;104;14:00;14:30;1
+9962;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra para Cantantes;61;104;15:00;17:30;1
+9963;PNOC;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Piano Complementario;61;209;15:30;17:00;0
+9964;PNO;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Piano;61;209;18:30;20:00;1
+9965;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;61;122;18:30;20:00;0
+9968;BAT;Pablo Diaz;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Viernes;Clase Batería;61;132;16:00;17:00;1
+9970;NTM2;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Notación y Teoría Musical 2;61;204;13:00;14:30;0
+9972;CON1;Juan Pablo Arredondo;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Viernes;1er Concierto;58;30;14:30;17:00;0
+9769;APM;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;61;104;18:30;20:00;0
+9770;APC1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Armonía Popular Contemporánea 1;61;104;11:30;13:00;0
+9771;APC4;Juan Pollo Raffo;2do Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Miércoles;Armonía Popular Contemporánea 4;61;12;13:30;15:00;0
+9772;EAP2;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Audioperceptiva 2;61;171;10:00;11:30;0
+9773;BAJ;Jerónimo Carmona;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Bajo;61;121;11:30;13:00;1
+9774;BAJ;Jerónimo Carmona;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;61;121;15:00;17:00;1
+9775;BAJ;Pablo Tesare;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;61;169;15:00;17:00;1
+9776;BAT;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Batería;61;132;15:00;17:00;1
+9777;CAN;Nora Olga Malatesta;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 16:30:00.000;Miércoles;Clase Canto;61;21;10:00;16:30;1
+9778;CAN;Eleonora Eubel;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Canto;61;101;11:30;14:30;1
+9779;CAN;Eleonora Eubel;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Canto;61;101;15:30;20:00;1
+9780;PNO;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Piano;61;171;11:30;14:30;1
+9781;PNO;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Piano;61;209;17:30;20:00;1
+9782;SAXF;Luis Nacht;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Clase Saxo / Flauta;61;136;10:00;11:30;1
+9783;SAXF;Luis Nacht;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Miércoles;Clase Saxo / Flauta;61;136;13:00;15:00;1
+9784;CPC1;Juan Pollo Raffo;2do Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:30:00.000;Miércoles;Composición Popular Contemporánea 1;61;12;12:00;13:30;0
+9785;EIMP;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Ensamble Improvisacion Libre (C);61;204;14:30;16:00;0
+9786;EJAC;Jerónimo Carmona;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble Jazz (C);61;121;13:00;14:30;0
+9787;EJAD;Luis Nacht;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Ensamble Jazz (D);61;136;11:30;13:00;0
+9788;ESFU;Pablo Tesare;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Ensamble Soul Funk (C);61;169;17:00;18:30;0
+9789;ERI;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Entrenamiento Rítmico ;61;132;13:00;14:30;0
+9790;GRA;Fernando Richard;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 21:30:00.000;Miércoles;Grabacion;61;159;18:30;21:30;0
+9791;GUIA;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Miércoles;Guitarra-A;61;160;11:00;12:00;0
+9792;GUIA;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-A;61;160;16:30;17:30;0
+9793;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Miércoles;Guitarra-B;61;160;10:00;11:00;0
+9794;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Miércoles;Guitarra-B;61;160;12:00;13:00;0
+9795;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;61;104;13:00;14:00;0
+9796;GUIB;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Guitarra-B;61;160;15:30;16:30;0
+9797;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;61;122;17:30;18:30;0
+9798;GUIB;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;61;104;17:30;18:30;0
+9799;INA1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Introducción a audioperceptiva 1;61;104;10:00;11:30;0
+9800;INA2;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Introducción a audioperceptiva 2;61;160;13:00;14:30;0
+9801;INA2;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 2;61;160;20:00;21:30;0
+9802;LBC;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Laboratorio de Batería Complementaria;61;132;10:00;11:30;0
+9803;LBC;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Laboratorio de Batería Complementaria;61;132;18:30;20:00;0
+9804;NTM1;Enrique Peña;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 1;61;160;18:30;20:00;0
+9805;NTM2;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 2;61;122;18:30;20:00;0
+9806;PNOC;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Piano Complementario;61;171;14:30;16:00;0
+9807;PNOC;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Miércoles;Piano Complementario;61;204;16:00;17:30;0
+9808;PNOC;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Piano Complementario;61;209;20:00;21:30;0
+9809;TIM1;Cecilia Colombo;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Taller de Interpretación y Movimiento 1;61;24;10:00;11:30;0
+9810;TIM2;Cecilia Colombo;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Taller de Interpretación y Movimiento 2;61;24;11:30;13:00;0
+9811;TAM;Fernando Richard;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Tecnología Aplicada a la Música;61;159;17:00;18:30;0
+9812;TPR1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Teoría y Practica del Ritmo 1;61;132;11:30;13:00;0
+9813;TPR1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Teoría y Practica del Ritmo 1;61;132;17:00;18:30;0
+9814;MEI;Fernando Richard;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Miércoles;Mezcla Inmersiva;61;159;14:00;15:30;0
+9815;CAN;Silvia Aramayo;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Canto;61;208;10:00;14:00;1
+9816;EAP2;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 2;61;122;20:00;21:30;0
+9817;APM;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;61;171;18:30;20:00;0
+9818;APC2;Daniel Johansen;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 2;61;6;18:30;20:00;0
+9819;APC3;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 3;61;124;18:30;20:00;0
+9820;ARR1;Daniel Johansen;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Arreglos 1;61;6;11:30;13:00;0
+9821;ARR2;Daniel Johansen;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Arreglos 2;61;6;10:00;11:30;0
+9822;EAP1;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 1;61;124;20:00;21:30;0
+9823;EAP2;Ignacio Abad;2do Cuatrimestre 2024;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 2;61;171;20:00;21:30;0
+9824;EAP3;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Audioperceptiva 3;61;124;17:00;18:30;0
+9825;CAN;Rocio Carletti;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Miércoles;Clase Canto;61;189;13:00;16:00;1
+9826;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;61;122;13:00;14:00;0
+9827;IVI;Matías Dante Moriones;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Instrumentos Virtuales;61;191;11:30;13:00;0
+9828;INA2;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 2;61;122;11:30;13:00;0
+9836;ARR1;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Arreglos 1;61;17;18:30;20:00;0
+9837;EAP2;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 2;61;17;17:00;18:30;0
+9838;EAP3;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Audioperceptiva 3;61;17;10:00;11:30;0
+9839;BAT;Fernando Martinez;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 14:00:00.000;Jueves;Clase Batería;61;9;10:00;14:00;1
+9840;CAN;Eleonora Eubel;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Canto;61;101;15:30;20:00;1
+9841;CAN;Rocio Carletti;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Clase Canto;61;189;10:00;11:30;1
+9842;CAN;Eleonora Eubel;2do Cuatrimestre 2024;0;1900-01-01 12:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Canto;61;101;12:00;14:30;1
+9843;CAN;Rocio Carletti;2do Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:30:00.000;Jueves;Clase Canto;61;189;13:30;15:30;1
+9844;PNO;Ricardo Nole;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 16:30:00.000;Jueves;Clase Piano;61;19;11:30;16:30;1
+9845;PNO;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;61;17;15:00;17:00;1
+9846;ECBC;Ricardo Nole;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Ensamble Candombe Brazilian (C);61;19;18:30;20:00;0
+9847;EFLA;Alejandro De Marinis;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Fusión Latinoamericana (C);61;141;17:00;18:30;0
+9848;EJAD;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Ensamble Jazz (D);61;17;13:00;14:30;0
+9849;EPOP;Carletti Nicholson -;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Ensamble POP;61;193;11:30;13:00;0
+9850;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Jueves;Guitarra-B;61;122;13:00;14:00;0
+9851;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:00:00.000;Jueves;Guitarra-B;61;122;14:00;15:00;0
+9852;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Jueves;Guitarra-B;61;122;16:30;17:30;0
+9853;IPM;Santiago Beer;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Intro Producción Musical;61;127;10:00;11:30;0
+9854;IPM;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Intro Producción Musical;61;195;17:00;18:30;0
+9855;MEZ1;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Jueves;Mezcla 1;61;195;13:30;15:00;0
+9856;MEZ1;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Mezcla 1;61;195;18:30;20:00;0
+9857;MEZ2;Santiago Beer;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Mezcla 2;61;127;14:00;15:30;0
+9858;MEZ3;Santiago Beer;2do Cuatrimestre 2024;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Mezcla 3;61;127;15:30;17:00;0
+9859;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Notación y Teoría Musical 1;61;122;10:00;11:30;0
+9860;PNOC;Ricardo Nole;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Piano Complementario;61;19;10:00;11:30;0
+9861;PNOC;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Piano Complementario;61;17;11:30;13:00;0
+9862;PNOC;Ricardo Nole;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;61;19;17:00;18:30;0
+9863;PTS;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Pro Tools;61;195;10:00;11:30;0
+9864;PTS;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Pro Tools;61;195;11:30;13:00;0
+9865;PTS;Paulina Chiarantano;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Jueves;Pro Tools;61;195;15:00;16:30;0
+9866;TPXS;Alejandro De Marinis;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Perf en Ritmos por Señas;61;141;18:30;20:00;0
+9867;TAM;Santiago Beer;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Tecnología Aplicada a la Música;61;127;11:30;13:00;0
+9868;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;61;122;17:30;18:30;0
+9873;NTM2;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 2;61;190;18:30;20:00;0
+9874;EGMA;Adan Silveyra;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble de Guitarras de Música Argentina;61;190;17:00;18:30;0
+9912;EMO;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Evolución de la Música Occidental;61;23;13:30;15:00;0
+9913;ORQ1;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Orquestación 1;61;23;18:00;19:30;0
+9914;TPBC;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Performance Blues (C);61;122;13:00;14:30;0
+9967;LBC;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Laboratorio de Batería Complementaria;61;132;14:00;15:30;0
+9976;CON1;Juan Pablo Arredondo;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Jueves;1er Concierto;60;30;14:30;17:00;0
+9886;CAN;Lea Franov;2do Cuatrimestre 2024;1;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Jueves;Clase Canto;61;202;11:00;13:00;1
+9973;CON2;Daniel Johansen;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Viernes;2do Concierto;61;6;14:30;17:00;0
+9974;CON2;Daniel Johansen;2do Cuatrimestre 2023;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Viernes;2do Concierto;58;6;14:30;17:00;0
+9975;CON1;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Viernes;1er Concierto;61;30;14:30;17:00;0
+9977;CON2;Daniel Johansen;1er Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Viernes;2do Concierto;60;6;14:30;17:00;0
+9983;APC3;Juan Pollo Raffo;1er. Cuatrimestre 2025;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Lunes;Armonía Popular Contemporánea 3;62;12;13:30;15:00;0
+9985;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 12:00:00.000;1900-01-01 13:00:00.000;Lunes;Guitarra-B;62;122;12:00;13:00;0
+9986;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Lunes;Guitarra-B;62;160;13:00;14:00;0
+9987;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Lunes;Guitarra-B;62;160;15:00;16:00;0
+9988;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Lunes;Guitarra-B;62;160;16:00;17:00;0
+9989;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 18:00:00.000;1900-01-01 19:00:00.000;Lunes;Guitarra-B;62;160;18:00;19:00;0
+9990;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Guitarra-B;62;160;17:00;18:30;0
+9991;EBLU;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Ensamble de Blues (D);62;122;13:00;14:30;0
+9992;EJAC;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Ensamble Jazz (C);62;160;11:30;13:00;0
+9993;GRA;Pablo Lopez Ruiz;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Grabacion;62;8;11:00;14:00;0
+9994;GUIA;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Lunes;Guitarra-A;62;160;10:30;11:30;0
+9995;TIM3;Cecilia Colombo;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Taller de Interpretación y Movimiento 3;62;24;14:30;16:00;0
+9996;EROC;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Ensamble Rock (C);62;122;17:30;19:00;0
+9997;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Lunes;Guitarra-A;62;122;16:30;17:30;0
+9998;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Lunes;Guitarra-B;62;122;15:30;16:30;0
+9999;TIM1;Cecilia Colombo;1er. Cuatrimestre 2025;0;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Taller de Interpretación y Movimiento 1;62;24;19:30;21:00;0
+10007;PNO;Gabriel Toker;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Clase Piano;62;17;10:00;11:30;1
+9910;PTS;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;61;159;10:00;11:30;0
+9911;TCV2;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Técnica en Conducción de Voces 2;61;23;15:00;16:30;0
+9916;ARR1;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Arreglos 1;61;171;11:30;13:00;0
+9917;BAT;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;61;132;11:30;13:00;1
+9918;PNO;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 16:30:00.000;1900-01-01 18:30:00.000;Viernes;Clase Piano;61;171;16:30;18:30;1
+9919;EFLC;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);61;171;10:00;11:30;0
+9920;EJAC;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);61;30;11:30;13:00;0
+9921;GUIC;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 16:00:00.000;Viernes;Guitarra para Cantantes;61;104;13:00;16:00;1
+9922;GUIB;Juan Pablo Arredondo;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;61;30;13:00;14:00;0
+9923;EAP1;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Audioperceptiva 1;61;104;11:30;13:00;0
+9924;NTM2;Candelaria Molina Zavalia;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Notación y Teoría Musical 2;61;104;10:00;11:30;0
+9925;PNOC;Ignacio Abad;2do Cuatrimestre 2024;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Piano Complementario;61;171;15:00;16:30;0
+9926;TPR1;Pablo Diaz;2do Cuatrimestre 2024;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;61;132;13:00;14:30;0
+9932;APC1;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Armonía Popular Contemporánea 1;61;124;11:30;13:00;0
+9933;APT1;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Audioperceptiva Técnica 1;61;159;14:30;16:00;0
+9934;PNO;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;61;17;10:00;11:30;1
+9935;CTO2;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Contrapunto 2;61;23;16:30;18:00;0
+9936;GRA;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:30:00.000;Viernes;Grabacion;61;159;11:30;13:30;0
+9937;GUIB;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Viernes;Guitarra-B;61;122;16:00;17:00;0
+9938;INA1;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;61;124;13:00;14:30;0
+9939;NTM1;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 1;61;122;11:30;13:00;0
+9940;PNOC;Gabriel Toker;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Piano Complementario;61;17;11:30;13:00;0
+9941;PTS;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;61;159;10:00;11:30;0
+9942;TAVC;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Arreglos Vocales (C);61;124;10:00;11:30;0
+9943;TCV2;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Técnica en Conducción de Voces 2;61;23;15:00;16:30;0
+9944;LBC;Pablo Diaz;2do Cuatrimestre 2024;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Laboratorio de Batería Complementaria;61;132;17:00;18:30;0
+9945;TPR1;Pablo Diaz;2do Cuatrimestre 2024;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Viernes;Teoría y Practica del Ritmo 1;61;132;18:30;20:00;0
+9946;TPBC;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Performance Blues (C);61;122;13:00;14:30;0
+9947;EAP4;Camilo Reiners;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Viernes;Audioperceptiva 4;61;124;16:00;17:30;0
+9948;EMO;Teodoro Cromberg;2do Cuatrimestre 2024;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Evolución de la Música Occidental;61;23;13:30;15:00;0
+9950;GUIA;Patricio Andres Nicholson;2do Cuatrimestre 2024;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Viernes;Guitarra-A;61;122;10:30;11:30;0
+9955;MAS;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Mastering;61;159;11:30;13:00;0
+9956;PR2;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Lunes;Producción 2 Tesis;61;127;10:00;11:30;0
+9957;PR2;Santiago Beer;2do Cuatrimestre 2024;1;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Lunes;Producción 2 Tesis;61;127;14:00;15:30;0
+9958;ARR1;Gabriel Toker;2do Cuatrimestre 2024;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Arreglos 1;61;17;10:00;11:30;0
+9959;PNO;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Piano;61;204;11:30;14:30;1
+9966;PNO;Lucas Pierro;2do Cuatrimestre 2024;0;1900-01-01 17:00:00.000;1900-01-01 20:00:00.000;Jueves;Clase Piano;61;209;17:00;20:00;1
+9969;PTS;Fernando Richard;2do Cuatrimestre 2024;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Viernes;Pro Tools;61;159;16:00;17:30;0
+9971;PNO;Pia Hernandez;2do Cuatrimestre 2024;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Clase Piano;61;204;14:30;16:00;1
+10017;APT1;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Audioperceptiva Técnica 1;62;159;18:00;19:30;0
+10018;PNO;Gabriel Toker;1er. Cuatrimestre 2025;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Clase Piano;62;17;18:00;20:00;1
+10019;IES;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 18:00:00.000;1900-01-01 20:00:00.000;Lunes;Instrumentos en el Estudio;62;127;18:00;20:00;0
+10020;MAS;Pablo Lopez Ruiz;1er. Cuatrimestre 2025;1;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Mastering;62;8;17:30;19:00;0
+10021;MEZ2;Pablo Lopez Ruiz;1er. Cuatrimestre 2025;1;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Mezcla 2;62;8;16:00;17:30;0
+10022;MEZ3;Pablo Lopez Ruiz;1er. Cuatrimestre 2025;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Mezcla 3;62;8;19:30;21:00;0
+10023;PTS;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 19:30:00.000;1900-01-01 21:00:00.000;Lunes;Pro Tools;62;159;19:30;21:00;0
+10041;PNO;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;62;204;15:00;17:00;1
+10042;PNOC;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Piano Complementario;62;17;18:30;20:00;0
+10043;GUIC;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Martes;Guitarra para Cantantes;62;104;14:30;16:00;1
+10044;CAN;Julia Moscardini;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 19:00:00.000;Martes;Clase Canto;62;211;15:00;19:00;1
+10045;BAJ;Alejandro Herrera;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Bajo;62;120;18:30;20:00;1
+10046;GUIA;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 15:30:00.000;Martes;Guitarra-A;62;30;14:30;15:30;0
+10047;GUIB;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Martes;Guitarra-B;62;190;15:30;16:30;0
+10048;GUIB;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Martes;Guitarra-B;62;190;16:30;17:30;0
+9984;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 12:00:00.000;Lunes;Guitarra-B;62;122;11:00;12:00;0
+10014;PNO;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Clase Piano;62;171;17:00;18:30;1
+10049;GUIA;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Martes;Guitarra-A;62;190;17:30;18:30;0
+10050;BAJ;Alejandro Herrera;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Martes;Clase Bajo;62;120;14:30;17:00;1
+10051;BAT;Santiago Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 19:30:00.000;Martes;Clase Batería;62;203;11:00;19:30;1
+10052;CAN;Silvia Aramayo;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Canto;62;208;10:00;17:00;1
+10053;PNO;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;62;209;18:30;20:00;1
+10054;EFLD;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Ensamble Folclore (D);62;190;18:30;20:00;0
+10055;EJAB;Juan Cruz De Urquiza;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Ensamble Jazz (B);62;3;10:00;11:30;0
+10056;EJAD;Juan Cruz De Urquiza;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Ensamble Jazz (D);62;3;11:30;13:00;0
+10057;EJFU;Alejandro Herrera;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Ensamble Jazz Fusion (C);62;120;17:00;18:30;0
+10058;ER&B;Pablo Tesare;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Ensamble R&B Soul (C);62;169;13:00;14:30;0
+10059;RIM;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Recursos de Improvisación;62;30;15:30;17:00;0
+10060;APM;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Apreciación Musical;62;17;10:00;11:30;0
+10087;INA2;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 2;62;104;20:00;21:30;0
+10104;GUIC;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Miércoles;Guitarra para Cantantes;62;104;14:30;17:00;1
+10128;APM;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;62;171;18:30;20:00;0
+10129;APC2;Daniel Johansen;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 2;62;6;18:30;20:00;0
+10130;APC3;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Armonía Popular Contemporánea 3;62;124;18:30;20:00;0
+10131;ARR1;Daniel Johansen;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Arreglos 1;62;6;11:30;13:00;0
+10132;ARR2;Daniel Johansen;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Arreglos 2;62;6;10:00;11:30;0
+10133;INA2;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 2;62;122;11:30;13:00;0
+10134;MAS;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Mastering;62;159;10:00;11:30;0
+10135;MIM;Matías Dante Moriones;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música en Imagen;62;191;10:00;11:30;0
+10136;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;62;122;13:00;14:00;0
+10137;PNO;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Clase Piano;62;171;17:00;18:30;1
+10138;PTS;Paulina Chiarantano;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Pro Tools;62;195;10:00;11:30;0
+10139;PRO;Paulina Chiarantano;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Producción 1;62;195;11:30;13:00;0
+10140;HDJ;Daniel Johansen;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Historia del Jazz;62;6;17:00;18:30;0
+10180;APC1;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Armonía Popular Contemporánea 1;62;171;18:30;20:00;0
+10181;EAP1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Jueves;Audioperceptiva 1;62;104;20:00;21:30;0
+10182;BAJ;Pablo Tesare;1er. Cuatrimestre 2025;1;1900-01-01 10:30:00.000;1900-01-01 13:00:00.000;Jueves;Clase Bajo;62;169;10:30;13:00;1
+10183;BAT;Fernando Martinez;1er. Cuatrimestre 2025;1;1900-01-01 16:00:00.000;1900-01-01 18:30:00.000;Jueves;Clase Batería;62;9;16:00;18:30;1
+10184;CAN;Lea Franov;1er. Cuatrimestre 2025;1;1900-01-01 11:00:00.000;1900-01-01 15:00:00.000;Jueves;Clase Canto;62;202;11:00;15:00;1
+10185;PNO;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Clase Piano;62;171;20:00;21:00;1
+10186;GUIA;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:00:00.000;Jueves;Guitarra-A;62;160;20:00;21:00;0
+10187;GUIB;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Jueves;Guitarra-B;62;160;11:30;12:30;0
+10188;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;1;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;62;104;16:00;17:00;0
+10189;GUIB;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Jueves;Guitarra-B;62;160;17:30;18:30;0
+10190;INA1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Introducción a audioperceptiva 1;62;104;18:30;20:00;0
+10191;NTM1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Notación y Teoría Musical 1;62;104;17:00;18:30;0
+10192;NTM2;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Notación y Teoría Musical 2;62;160;10:00;11:30;0
+10193;PNOC;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;62;171;17:00;18:30;0
+10194;PME;Santiago Domingo Devia;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Producción de Música Electrónica;62;205;10:00;11:30;0
+10195;TJZD;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Taller de Jazz (D);62;160;18:30;20:00;0
+10196;EAP1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Audioperceptiva 1;62;104;10:00;11:30;0
+10197;BAT;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Clase Batería;62;132;11:30;13:00;1
+10198;PNO;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 15:30:00.000;Viernes;Clase Piano;62;171;11:30;15:30;1
+10199;EFLC;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Ensamble Folclore (C);62;171;10:00;11:30;0
+10200;EJAC;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Ensamble Jazz (C);62;30;11:30;13:00;0
+10201;GUIB;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Viernes;Guitarra-B;62;30;13:00;14:00;0
+10202;INA1;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Introducción a audioperceptiva 1;62;204;13:00;14:30;0
+10203;NTM1;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 1;62;204;11:30;13:00;0
+10204;NTM2;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Notación y Teoría Musical 2;62;104;11:30;13:00;0
+10205;PNOC;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Viernes;Piano Complementario;62;171;15:30;17:00;0
+10206;TME;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Taller de Música Experimental;62;132;10:00;11:30;0
+10207;TPR1;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Teoría y Practica del Ritmo 1;62;132;13:00;14:30;0
+10208;CAN;Lea Franov;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 17:00:00.000;Viernes;Clase Canto;62;202;13:00;17:00;1
+10224;TAVC;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Taller de Arreglos Vocales (C);62;124;13:00;14:30;0
+10225;BAT;Pablo Diaz;1er. Cuatrimestre 2025;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Clase Batería;62;132;16:30;18:00;1
+10226;EAP4;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 16:30:00.000;1900-01-01 18:00:00.000;Viernes;Audioperceptiva 4;62;124;16:30;18:00;0
+10229;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Miércoles;Guitarra-B;62;104;13:00;14:00;0
+10230;PNOC;Ricardo Nole;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Piano Complementario;62;19;17:00;18:30;0
+10231;GRA;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:30:00.000;Viernes;Grabacion;62;159;11:30;13:30;0
+10234;NTM2;Daniel Johansen;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Notación y Teoría Musical 2;61;6;09:00;10:30;0
+10237;INA1;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Introducción a audioperceptiva 1;61;124;09:00;10:30;0
+10238;EAP1;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Audioperceptiva 1;61;124;09:00;10:30;0
+10240;TAM;Santiago Beer;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Tecnología Aplicada a la Música;61;127;09:00;10:30;0
+10243;PNO;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Clase Piano;62;209;18:30;20:00;1
+10245;LBC;Pablo Diaz;1er. Cuatrimestre 2025;1;1900-01-01 16:00:00.000;1900-01-01 16:30:00.000;Viernes;Laboratorio de Batería Complementaria;62;132;16:00;16:30;0
+10248;BAJ;Alejandro Herrera;1er. Cuatrimestre 2025;0;1900-01-01 18:00:00.000;1900-01-01 18:30:00.000;Martes;Clase Bajo;62;120;18:00;18:30;1
+10249;APC1;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Armonía Popular Contemporánea 1;62;124;10:00;11:30;0
+10000;TIM2;Cecilia Colombo;1er. Cuatrimestre 2025;0;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Lunes;Taller de Interpretación y Movimiento 2;62;24;18:00;19:30;0
+10001;PNO;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Lunes;Clase Piano;62;204;13:00;14:30;1
+10002;PNOC;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Lunes;Piano Complementario;62;204;14:30;16:00;0
+10003;APC4;Juan Pollo Raffo;1er. Cuatrimestre 2025;0;1900-01-01 10:30:00.000;1900-01-01 12:00:00.000;Lunes;Armonía Popular Contemporánea 4;62;12;10:30;12:00;0
+10004;CAN;Julia Moscardini;1er. Cuatrimestre 2025;0;1900-01-01 14:00:00.000;1900-01-01 19:00:00.000;Lunes;Clase Canto;62;211;14:00;19:00;1
+10005;CAN;Julia Moscardini;1er. Cuatrimestre 2025;0;1900-01-01 17:30:00.000;1900-01-01 19:00:00.000;Lunes;Clase Canto;62;211;17:30;19:00;1
+10006;EJAS;Julia Moscardini;1er. Cuatrimestre 2025;0;1900-01-01 16:00:00.000;1900-01-01 17:30:00.000;Lunes;Ensamble Jazz Standards (C);62;211;16:00;17:30;0
+10009;MEZ1;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Mezcla 1;62;127;11:30;13:00;0
+10010;PR2;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Lunes;Producción 2 Tesis;62;127;14:00;15:30;0
+10011;PR2;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Lunes;Producción 2 Tesis;62;127;15:30;17:00;0
+10012;IPM;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Lunes;Intro Producción Musical;62;127;17:00;18:30;0
+10013;TAM;Santiago Beer;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Tecnología Aplicada a la Música;62;127;18:30;20:00;0
+10015;PNOC;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Lunes;Piano Complementario;62;171;18:30;20:00;0
+10016;CAN;Rocio Carletti;1er. Cuatrimestre 2025;1;1900-01-01 11:00:00.000;1900-01-01 14:00:00.000;Lunes;Clase Canto;62;189;11:00;14:00;1
+10024;APC2;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Armonía Popular Contemporánea 2;62;30;13:00;14:30;0
+10025;PNO;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Clase Piano;62;17;11:30;13:00;1
+10026;INA2;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 2;62;104;11:30;13:00;0
+10027;NTM1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Notación y Teoría Musical 1;62;104;10:00;11:30;0
+10028;NTM2;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Notación y Teoría Musical 2;62;204;13:00;14:30;0
+10029;PNOC;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Piano Complementario;62;204;10:00;11:30;0
+10030;PNOC;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Piano Complementario;62;17;13:00;14:30;0
+10031;ARR1;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Arreglos 1;62;124;10:00;11:30;0
+10032;APC1;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Armonía Popular Contemporánea 1;62;124;11:30;13:00;0
+10033;APC1;Juan Pablo Arredondo;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Armonía Popular Contemporánea 1;62;30;18:30;20:00;0
+10034;EAP1;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Audioperceptiva 1;62;17;17:00;18:30;0
+10035;BAJ;Pablo Tesare;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Martes;Clase Bajo;62;169;11:00;13:00;1
+10036;PNO;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;62;209;15:00;17:00;1
+10037;PNO;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Martes;Clase Piano;62;17;15:00;17:00;1
+10038;TPT;Andres Ollari;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:00:00.000;Martes;Clase Trompeta;62;194;10:00;11:00;1
+10039;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;62;104;13:00;14:00;0
+10040;PNOC;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;62;209;17:00;18:30;0
+10061;EAP1;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Martes;Audioperceptiva 1;62;124;13:00;14:30;0
+10062;EVOC;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Martes;Ensamble Vocal;62;124;15:30;17:00;0
+10063;INA1;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Introducción a audioperceptiva 1;62;204;11:30;13:00;0
+10064;INA1;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Introducción a audioperceptiva 1;62;124;17:00;18:30;0
+10065;CAN;Nora Olga Malatesta;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 15:30:00.000;Martes;Clase Canto;62;21;10:00;15:30;1
+10066;CAN;Eleonora Eubel;1er. Cuatrimestre 2025;1;1900-01-01 13:00:00.000;1900-01-01 15:00:00.000;Martes;Clase Canto;62;101;13:00;15:00;1
+10067;PNO;Ricardo Nole;1er. Cuatrimestre 2025;1;1900-01-01 13:00:00.000;1900-01-01 16:30:00.000;Martes;Clase Piano;62;19;13:00;16:30;1
+10068;PNO;Ricardo Nole;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Clase Piano;62;19;18:30;20:00;1
+10069;CTO1;Teodoro Cromberg;1er. Cuatrimestre 2025;1;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Martes;Contrapunto 1;62;23;18:30;20:00;0
+10070;GUIB;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Martes;Guitarra-B;62;160;10:30;11:30;0
+10071;IVI;Matías Dante Moriones;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Instrumentos Virtuales;62;191;11:30;13:00;0
+10072;NTM1;Enrique Peña;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Notación y Teoría Musical 1;62;160;11:30;13:00;0
+10073;PNOC;Ricardo Nole;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;62;19;17:00;18:30;0
+10074;PNOC;Ricardo Nole;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Piano Complementario;62;19;20:00;21:30;0
+10075;PME2;Santiago Domingo Devia;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Producción de Música Electrónica 2;62;205;10:00;11:30;0
+10076;TCV1;Teodoro Cromberg;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Martes;Técnica en Conducción de Voces 1;62;23;20:00;21:30;0
+10077;TAM;Matías Dante Moriones;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Martes;Tecnología Aplicada a la Música;62;191;10:00;11:30;0
+10078;BAJ;Jerónimo Carmona;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:30:00.000;Miércoles;Clase Bajo;62;121;15:00;17:30;1
+10079;PNO;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Piano;62;204;16:00;17:00;1
+10080;PNO;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Clase Piano;62;209;20:00;21:30;1
+10081;PNOC;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Piano Complementario;62;171;14:30;16:00;0
+10082;PNOC;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Piano Complementario;62;204;17:00;18:30;0
+10083;PNOC;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Piano Complementario;62;209;18:30;20:00;0
+10084;CAN;Nora Olga Malatesta;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 16:30:00.000;Miércoles;Clase Canto;62;21;10:00;16:30;1
+10085;PNO;Lucas Pierro;1er. Cuatrimestre 2025;0;1900-01-01 16:30:00.000;1900-01-01 21:30:00.000;Miércoles;Clase Piano;62;209;16:30;21:30;1
+10086;NTM2;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 2;62;160;18:30;20:00;0
+10088;NTM1;Pablo Tesare;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Notación y Teoría Musical 1;62;169;18:30;20:00;0
+10089;INA1;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Introducción a audioperceptiva 1;62;122;20:00;21:30;0
+10090;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 19:30:00.000;Miércoles;Guitarra-A;62;122;18:30;19:30;0
+10091;BAJ;Jerónimo Carmona;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 13:00:00.000;Miércoles;Clase Bajo;62;121;11:00;13:00;1
+10092;BAJ;Pablo Tesare;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Bajo;62;169;14:30;17:00;1
+10093;SAXF;Luis Nacht;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Clase Saxo / Flauta;62;136;10:00;11:30;1
+10094;EJAC;Jerónimo Carmona;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble Jazz (C);62;121;13:00;14:30;0
+10095;EJAD;Luis Nacht;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Ensamble Jazz (D);62;136;11:30;13:00;0
+10096;GUIA;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Miércoles;Guitarra-A;62;160;10:30;11:30;0
+10008;PNOC;Gabriel Toker;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Piano Complementario;62;17;11:30;13:00;0
+10097;GUIA;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Miércoles;Guitarra-A;62;160;16:30;17:30;0
+10098;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:00:00.000;Martes;Guitarra-B;62;104;13:00;14:00;0
+10099;GUIB;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 16:30:00.000;Miércoles;Guitarra-B;62;160;15:30;16:30;0
+10100;GUIB;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;62;104;17:30;18:30;0
+10101;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 17:30:00.000;1900-01-01 18:30:00.000;Miércoles;Guitarra-B;62;122;17:30;18:30;0
+10102;PNO;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 14:00:00.000;Miércoles;Clase Piano;62;171;11:30;14:00;1
+10103;CAN;Silvia Aramayo;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 19:00:00.000;Miércoles;Clase Canto;62;208;14:30;19:00;1
+10105;APM;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Apreciación Musical;62;104;18:30;20:00;0
+10106;BAT;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Batería;62;132;15:00;17:00;1
+10107;CAN;Eleonora Eubel;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 14:30:00.000;Miércoles;Clase Canto;62;101;11:30;14:30;1
+10108;CAN;Eleonora Eubel;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 19:30:00.000;Miércoles;Clase Canto;62;101;15:30;19:30;1
+10109;EIMP;Pia Hernandez;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Miércoles;Ensamble Improvisacion Libre (C);62;204;14:30;16:00;0
+10110;ESFU;Pablo Tesare;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Ensamble Soul Funk (C);62;169;17:00;18:30;0
+10111;ERA;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Entrenamiento Rítmico Avanzado;62;132;13:00;14:30;0
+10112;GRA;Fernando Richard;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 21:30:00.000;Miércoles;Grabacion;62;159;18:30;21:30;0
+10113;INA2;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Introducción a audioperceptiva 2;62;160;13:00;14:30;0
+10114;LBC;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Laboratorio de Batería Complementaria;62;132;10:00;11:30;0
+10115;LBC;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Miércoles;Laboratorio de Batería Complementaria;62;132;18:30;20:00;0
+10116;MEI;Fernando Richard;1er. Cuatrimestre 2025;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Miércoles;Mezcla Inmersiva;62;159;14:00;15:30;0
+10117;NTM1;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Notación y Teoría Musical 1;62;171;10:00;11:30;0
+10118;TIM1;Cecilia Colombo;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Taller de Interpretación y Movimiento 1;62;24;10:00;11:30;0
+10119;TIM2;Cecilia Colombo;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Taller de Interpretación y Movimiento 2;62;24;11:30;13:00;0
+10120;TAM;Fernando Richard;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Tecnología Aplicada a la Música;62;159;17:00;18:30;0
+10121;TPR1;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Teoría y Practica del Ritmo 1;62;132;11:30;13:00;0
+10122;TPR1;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Miércoles;Teoría y Practica del Ritmo 1;62;132;17:00;18:30;0
+10123;APC1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Armonía Popular Contemporánea 1;62;104;10:00;11:30;0
+10124;INA1;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Introducción a audioperceptiva 1;62;104;11:30;13:00;0
+10125;EAP1;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Audioperceptiva 1;62;160;11:30;13:00;0
+10126;ERNC;Silvia Aramayo;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Miércoles;Ensamble de Rock Nacional (C);62;208;13:00;14:30;0
+10127;CAN;Rocio Carletti;1er. Cuatrimestre 2025;0;1900-01-01 14:00:00.000;1900-01-01 17:00:00.000;Miércoles;Clase Canto;62;189;14:00;17:00;1
+10141;MFA;Adan Silveyra;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Miércoles;Música Folclórica Argentina;62;190;10:00;11:30;0
+10142;EAP2;Ignacio Abad;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 2;62;171;20:00;21:30;0
+10143;EAP3;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 20:00:00.000;1900-01-01 21:30:00.000;Miércoles;Audioperceptiva 3;62;124;20:00;21:30;0
+10144;APC1;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Armonía Popular Contemporánea 1;62;17;17:00;18:30;0
+10145;ARR1;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Arreglos 1;62;17;18:30;20:00;0
+10146;EAP2;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Audioperceptiva 2;62;122;17:00;18:30;0
+10147;EAP3;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Audioperceptiva 3;62;17;11:30;13:00;0
+10148;BAT;Fernando Martinez;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Batería;62;9;10:00;14:30;1
+10149;CAN;Rocio Carletti;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Clase Canto;62;189;10:00;11:30;1
+10150;CAN;Eleonora Eubel;1er. Cuatrimestre 2025;0;1900-01-01 11:00:00.000;1900-01-01 14:30:00.000;Jueves;Clase Canto;62;101;11:00;14:30;1
+10151;CAN;Rocio Carletti;1er. Cuatrimestre 2025;0;1900-01-01 13:30:00.000;1900-01-01 17:00:00.000;Jueves;Clase Canto;62;189;13:30;17:00;1
+10152;CAN;Eleonora Eubel;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 20:00:00.000;Jueves;Clase Canto;62;101;15:30;20:00;1
+10153;PNO;Ricardo Nole;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 16:30:00.000;Jueves;Clase Piano;62;19;10:00;16:30;1
+10154;PNO;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 17:00:00.000;Jueves;Clase Piano;62;17;15:00;17:00;1
+10155;ECBC;Ricardo Nole;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Ensamble Candombe Brazilian (C);62;19;18:30;20:00;0
+10156;EGMA;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Ensamble de Guitarras de Música Argentina;62;190;15:30;17:00;0
+10157;EFLA;Alejandro De Marinis;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Fusión Latinoamericana (C);62;141;17:00;18:30;0
+10158;EJAD;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Jueves;Ensamble Jazz (D);62;17;13:00;14:30;0
+10159;EPOP;Carletti Nicholson -;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Ensamble POP;62;193;11:30;13:00;0
+10160;ETAN;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Ensamble Tango (C);62;190;17:00;18:30;0
+10161;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 10:30:00.000;1900-01-01 11:30:00.000;Jueves;Guitarra-B;62;122;10:30;11:30;0
+10162;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 16:00:00.000;Jueves;Guitarra-B;62;122;15:00;16:00;0
+10163;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 16:00:00.000;1900-01-01 17:00:00.000;Jueves;Guitarra-B;62;122;16:00;17:00;0
+10164;IPM;Santiago Beer;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Intro Producción Musical;62;127;10:00;11:30;0
+10165;INA1;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Introducción a audioperceptiva 1;62;132;17:00;18:30;0
+10166;LBC;Pablo Diaz;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Laboratorio de Batería Complementaria;62;132;18:30;20:00;0
+10167;MEZ1;Paulina Chiarantano;1er. Cuatrimestre 2025;0;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Jueves;Mezcla 1;62;195;13:30;15:00;0
+10168;MEZ2;Santiago Beer;1er. Cuatrimestre 2025;0;1900-01-01 14:00:00.000;1900-01-01 15:30:00.000;Jueves;Mezcla 2;62;127;14:00;15:30;0
+10169;MEZ3;Santiago Beer;1er. Cuatrimestre 2025;0;1900-01-01 15:30:00.000;1900-01-01 17:00:00.000;Jueves;Mezcla 3;62;127;15:30;17:00;0
+10170;NTM1;Adan Silveyra;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;62;190;18:30;20:00;0
+10171;NTM1;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Notación y Teoría Musical 1;62;122;18:30;20:00;0
+10172;PNOC;Ricardo Nole;1er. Cuatrimestre 2025;1;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Martes;Piano Complementario;62;19;17:00;18:30;0
+10173;PNOC;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Jueves;Piano Complementario;62;17;10:00;11:30;0
+10174;PTS;Paulina Chiarantano;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Pro Tools;62;195;11:30;13:00;0
+10175;PTS;Paulina Chiarantano;1er. Cuatrimestre 2025;0;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Jueves;Pro Tools;62;195;15:00;16:30;0
+10176;TAM;Santiago Beer;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Tecnología Aplicada a la Música;62;127;11:30;13:00;0
+10177;TAM;Paulina Chiarantano;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Jueves;Tecnología Aplicada a la Música;62;195;17:00;18:30;0
+10178;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;0;1900-01-01 14:00:00.000;1900-01-01 15:00:00.000;Jueves;Guitarra-B;62;122;14:00;15:00;0
+10179;PRO;Paulina Chiarantano;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Producción 1;62;195;18:30;20:00;0
+10209;GUIC;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Guitarra para Cantantes;62;104;14:30;16:00;1
+10210;ECPD;Candelaria Molina Zavalia;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Ensamble Canción Pop (D);62;104;13:00;14:30;0
+10211;EAP1;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 13:00:00.000;1900-01-01 14:30:00.000;Viernes;Audioperceptiva 1;62;122;13:00;14:30;0
+10212;APT1;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Audioperceptiva Técnica 1;62;159;13:30;15:00;0
+10213;PNO;Gabriel Toker;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Clase Piano;62;17;10:00;11:30;1
+10214;GUIA;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 12:30:00.000;Viernes;Guitarra-A;62;122;11:30;12:30;0
+10215;GUIB;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 16:30:00.000;1900-01-01 17:30:00.000;Viernes;Guitarra-B;62;122;16:30;17:30;0
+10216;PTS;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Pro Tools;62;159;10:00;11:30;0
+10217;PTS;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Pro Tools;62;159;15:00;16:30;0
+10218;TPRD;Patricio Andres Nicholson;1er. Cuatrimestre 2025;1;1900-01-01 14:30:00.000;1900-01-01 16:00:00.000;Viernes;Taller de Performance Rock (D);62;122;14:30;16:00;0
+10219;TPR1;Pablo Diaz;1er. Cuatrimestre 2025;1;1900-01-01 18:00:00.000;1900-01-01 19:30:00.000;Viernes;Teoría y Practica del Ritmo 1;62;132;18:00;19:30;0
+10220;APC1;Daniel Johansen;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Armonía Popular Contemporánea 1;62;6;10:00;11:30;0
+10221;PRP;Ilutovich Fernandez;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 12:00:00.000;Viernes;Practicas Profesionales;62;187;10:00;12:00;0
+10222;INA1;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 10:00:00.000;1900-01-01 11:30:00.000;Viernes;Introducción a audioperceptiva 1;62;124;10:00;11:30;0
+10223;APM;Camilo Reiners;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Viernes;Apreciación Musical;62;124;11:30;13:00;0
+10227;EMO;Teodoro Cromberg;1er. Cuatrimestre 2025;1;1900-01-01 13:30:00.000;1900-01-01 15:00:00.000;Viernes;Evolución de la Música Occidental;62;23;13:30;15:00;0
+10228;CTO2;Teodoro Cromberg;1er. Cuatrimestre 2025;1;1900-01-01 15:00:00.000;1900-01-01 16:30:00.000;Viernes;Contrapunto 2;62;23;15:00;16:30;0
+10233;PNO;Ignacio Abad;1er. Cuatrimestre 2025;0;1900-01-01 17:00:00.000;1900-01-01 18:30:00.000;Viernes;Clase Piano;62;171;17:00;18:30;1
+10235;APC1;Daniel Johansen;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Armonía Popular Contemporánea 1;61;6;09:00;10:30;0
+10236;EAP3;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Audioperceptiva 3;61;124;09:00;10:30;0
+10239;EAP2;Camilo Reiners;2do Cuatrimestre 2024;0;1900-01-01 09:00:00.000;1900-01-01 10:30:00.000;Lunes;Audioperceptiva 2;61;124;09:00;10:30;0
+10241;MEZ1;Santiago Beer;1er. Cuatrimestre 2025;0;1900-01-01 18:30:00.000;1900-01-01 20:00:00.000;Jueves;Mezcla 1;62;127;18:30;20:00;0
+10242;TAM;Fernando Richard;1er. Cuatrimestre 2025;1;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Miércoles;Tecnología Aplicada a la Música;62;159;11:30;13:00;0
+10244;PNO;Ricardo Nole;1er. Cuatrimestre 2025;0;1900-01-01 10:00:00.000;1900-01-01 13:00:00.000;Viernes;Clase Piano;62;19;10:00;13:00;1
+10247;INA1;Enrique Peña;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Lunes;Introducción a audioperceptiva 1;62;160;11:30;13:00;0
+10250;EAP3;Camilo Reiners;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Jueves;Audioperceptiva 3;62;124;11:30;13:00;0
+10232;EAP2;Gabriel Toker;1er. Cuatrimestre 2025;0;1900-01-01 11:30:00.000;1900-01-01 13:00:00.000;Martes;Audioperceptiva 2;62;17;11:30;13:00;0
+10246;SAXF;Luis Nacht;1er. Cuatrimestre 2025;0;1900-01-01 13:00:00.000;1900-01-01 13:30:00.000;Miércoles;Clase Saxo / Flauta;62;136;13:00;13:30;1
