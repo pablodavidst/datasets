@@ -1,4 +1,4 @@
-fecha;hora;id_alumno;id_curso;tipo
+fecha;hora;id_alumno;nro_curso;tipo
 3/17/2025;11:26:21;2711;10104;BAJA
 3/17/2025;01:44:31;3835;9996;ALTA
 3/18/2025;12:57:04;4210;10242;BAJA
